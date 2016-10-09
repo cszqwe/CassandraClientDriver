@@ -57,7 +57,7 @@ public class PopularItem {
         System.out.println("district identifier: W_ID->" + String.valueOf(w_id) + " D_ID->" + String.valueOf(d_id));
         System.out.println("number of last orders to be examined: " + String.valueOf(numLastOrders));
 
-        ArrayList<Integer> distinctPopularItems = new ArrayList<Integer>();
+        List<Integer> PopularItems = new ArrayList<Integer>();
         HashMap hm = new HashMap();
 
         // loop through each order
@@ -81,7 +81,7 @@ public class PopularItem {
                     Row rowResult = result.one();
                     int itemId = rowResult.getInt("OL_I_ID");
                     lst.add(itemId);
-                    distinctPopularItems.add(itemId);
+                    PopularItems.add(itemId);
                     maxQty = rowResult.getDouble("OL_QUANTITY");
                 }
             }
@@ -99,21 +99,18 @@ public class PopularItem {
         }
 
         //get distinct popular item IDs
-        Set<Integer> setList = new HashSet<>();
-        setList.addALL(distinctPopularItems);
-        distinctPopularItems.clear();
-        distinctPopularItems.addAll();
+        List<Integer> dedupped = new ArrayList<Integer>(new LinkedHashSet<>(distinctPopularItems));
 
         int totalNumOrders = orderNumList.size();
         // for each distinct popular item, get the percentage
-        for (int k=0; k<distinctPopularItems.size(); k++){
-            BoundStatement boundCount = queryCount.bind(distinctPopularItems.get(k), w_id, d_id, orderNum, orderNum - numLastOrders);
+        for (int k=0; k<dedupped.size(); k++){
+            BoundStatement boundCount = queryCount.bind(dedupped.get(k), w_id, d_id, orderNum, orderNum - numLastOrders);
             result = session.execute(boundCount);
             Row rowResult = result.one();
             if (rowResult != null) {
                 int count = rowResult.getInt("numSatisfied");
                 float percentage = (count * 100.0f) / totalNumOrders;
-                String itemName = (String) hm.get(distinctPopularItems.get(k));
+                String itemName = (String) hm.get(dedupped.get(k));
                 System.out.println("item name: "  + itemName + "\npercentage of orders in S that contain the item: " + String.valueOf(percentage));
             }
         }
