@@ -81,7 +81,7 @@ public class PopularItem {
                     Row rowResult = result.one();
                     int itemId = rowResult.getInt("OL_I_ID");
                     lst.add(itemId);
-                    PopularItems.add(itemId);
+                    popularItems.add(itemId);
                     maxQty = rowResult.getDouble("OL_QUANTITY");
                 }
             }
@@ -99,7 +99,7 @@ public class PopularItem {
         }
 
         //get distinct popular item IDs
-        List<Integer> dedupped = new ArrayList<Integer>(new LinkedHashSet<>(distinctPopularItems));
+        List<Integer> dedupped = new ArrayList<Integer>(new LinkedHashSet<>(popularItems));
 
         int totalNumOrders = orderNumList.size();
         // for each distinct popular item, get the percentage
