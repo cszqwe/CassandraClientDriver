@@ -1,9 +1,0 @@
-loader/DataLoader.class
-transactions/Delivery.class
-transactions/PopularItem.class
-transactions/NewOrder.class
-transactions/TopBalance.class
-transactions/Payment.class
-clientdriver/ClientDriver.class
-transactions/StockLevel.class
-transactions/OrderStatus.class
