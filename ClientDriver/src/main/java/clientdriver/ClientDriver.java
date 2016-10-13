@@ -145,6 +145,7 @@ public class ClientDriver {
             System.err.println("Total elapsed time: " + String.valueOf(totalTimeSeconds) + " seconds");
             double throughput = totalNumXact/totalTimeSeconds;
             System.err.println("Transaction throughput: " + String.valueOf(throughput) + "/sec");
+            System.err.println("Transaction finished for file: "+ fileName);
             cluster.close();
         } catch (java.io.IOException e) {
             e.printStackTrace();
