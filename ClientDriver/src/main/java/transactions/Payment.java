@@ -3,7 +3,7 @@ package transactions;
 import com.datastax.driver.core.*;
 
 public class Payment {
-    private PreparedStatement queryDistrictYTD, queryWarehouseInfo, queryWarehouseYtd, queryUpdateWare, queryDistrictInfo, queryDistrictYtd, queryUpdateDist, queryCustomerInfo, queryUpdateCust;
+    private PreparedStatement queryDeleteBalance,queryUpdateBalance,queryDistrictYTD, queryWarehouseInfo, queryWarehouseYtd, queryUpdateWare, queryDistrictInfo, queryDistrictYtd, queryUpdateDist, queryCustomerInfo, queryUpdateCust;
     Session session;
     public Payment(Session session){
         // init cluster and session
@@ -12,13 +12,16 @@ public class Payment {
         this.session = session;
         this.queryWarehouseInfo = session.prepare("select W_STREET_1, W_STREET_2, W_CITY, W_STATE, W_ZIP from warehouse_unchanged where W_ID =?;");
         this.queryWarehouseYtd = session.prepare("select W_YTD from warehouse where W_ID=?;");
-        this.queryUpdateWare = session.prepare("update warehouse set W_YTD=? where W_ID=?;");
+        this.queryUpdateWare = session.prepare("update warehouse set W_YTD=? where W_ID=? if W_YTD=?;");
         this.queryDistrictYtd = session.prepare("select D_YTD from district where D_W_ID=? and D_ID=?;");
         this.queryDistrictInfo = session.prepare("select D_STREET_1, D_STREET_2, D_CITY, D_STATE, D_ZIP from district_unchanged where D_W_ID=? and D_ID=?;");
-        this.queryUpdateDist = session.prepare("update district set D_YTD=? where D_W_ID=? and D_ID=?;");
+        this.queryUpdateDist = session.prepare("update district set D_YTD=? where D_W_ID=? and D_ID=? if D_YTD=?;");
 
         this.queryCustomerInfo = session.prepare("select C_FIRST, C_MIDDLE, C_LAST, C_STREET_1, C_STREET_2, C_CITY, C_STATE, C_ZIP, C_PHONE, C_SINCE, C_CREDIT, C_CREDIT_LIM, C_DISCOUNT, C_BALANCE, C_YTD_PAYMENT, C_PAYMENT_CNT from customer where C_W_ID=? and C_D_ID=? and C_ID=?;");
-        this.queryUpdateCust = session.prepare("update customer set C_BALANCE=?, C_YTD_PAYMENT=?, C_PAYMENT_CNT=? where C_W_ID=? and C_D_ID=? and C_ID=?;");
+        this.queryUpdateCust = session.prepare("update customer set C_BALANCE=?, C_YTD_PAYMENT=?, C_PAYMENT_CNT=? where C_W_ID=? and C_D_ID=? and C_ID=? if C_PAYMENT_CNT = ?;");
+        this.queryDeleteBalance = session.prepare("delete from balance where id=? and c_balance = ? and C_W_ID=? and C_D_ID=? and C_ID=?;");
+        this.queryUpdateBalance = session.prepare("insert into balance (id, c_balance, c_w_id, c_d_id, c_id) values(?,?,?,?,?);");
+
     }
 
     // client driver will all this function
@@ -60,7 +63,7 @@ public class Payment {
     // increment W_YTD in warehouse by paymentAmount
     private void incrementWarehouseYtd(int c_w_id, double paymentAmount, double currentAmt){
         Double newYtdValue = currentAmt + paymentAmount;
-        BoundStatement boundUpdateWare = queryUpdateWare.bind(newYtdValue, c_w_id);
+        BoundStatement boundUpdateWare = queryUpdateWare.bind(newYtdValue, c_w_id, currentAmt);
         session.execute(boundUpdateWare);
     }
 
@@ -94,7 +97,7 @@ public class Payment {
     // increment D_YTD in district by paymentAmount
     private void incrementDistrictYtd(int c_w_id, int c_d_id, double paymentAmount, double currentAmt){
         Double newYtdValue = currentAmt + paymentAmount;
-        BoundStatement boundUpdateDist = queryUpdateDist.bind(newYtdValue, c_w_id, c_d_id);
+        BoundStatement boundUpdateDist = queryUpdateDist.bind(newYtdValue, c_w_id, c_d_id, currentAmt);
         session.execute(boundUpdateDist);
     }
 
@@ -135,7 +138,12 @@ public class Payment {
         // decrement C_BALANCE in customer by paymentAmount
         // increment C_YTD_PAYMENT in customer by paymentAmount
         // increment C_PAYMENT_CNT in customer by 1
-        BoundStatement boundUpdateCust = queryUpdateCust.bind(newBalance, newYtd, newCount, c_w_id, c_d_id, c_id);
+        BoundStatement boundUpdateCust = queryUpdateCust.bind(newBalance, newYtd, newCount, c_w_id, c_d_id, c_id, paymentCount);
         session.execute(boundUpdateCust);
+        BoundStatement boundDeleteBalance = queryDeleteBalance.bind(1, balance, c_w_id, c_d_id, c_id);
+        session.execute(boundDeleteBalance);
+        BoundStatement boundUpdateBalance = queryUpdateBalance.bind(1,newBalance, c_w_id, c_d_id, c_id);
+        session.execute(boundUpdateBalance);
+
     }
 }

@@ -75,64 +75,68 @@ public class ClientDriver {
                 //System.out.println(Arrays.toString(paraList));
                 xactType = paraList[0].toUpperCase();
                 //System.out.println(paraList[0]);
-                switch(xactType.charAt(0)){
-                    case 'N':
-                        startTime = System.nanoTime();
-                        // 5 paras
-                        newOrderParaList = paraList.clone();
-                        numItems = Integer.parseInt(paraList[4]);
+                try {
+                    switch(xactType.charAt(0)){
+                        case 'N':
+                            startTime = System.nanoTime();
+                            // 5 paras
+                            newOrderParaList = paraList.clone();
+                            numItems = Integer.parseInt(paraList[4]);
 
-                        String[][] itemsInfo = new String[numItems][];
-                        for (int i=0; i<numItems; i++){
-                            line = br.readLine().trim();
-                            itemsInfo[i] = line.replaceAll("\\s","").split(",");
-                        }
-                        processNewOrder(newOrderParaList[1],newOrderParaList[2],newOrderParaList[3], numItems, itemsInfo);
-                        endTime = System.nanoTime();
-                        totalTime += (endTime-startTime);
-                        break;
-                    case 'P':
-                        startTime = System.nanoTime();
-                        // 5 paras
-                        processPayment(paraList[1], paraList[2], paraList[3], paraList[4]);
-                        endTime = System.nanoTime();
-                        totalTime+= (endTime-startTime);
-                        break;
-                    case 'D':
-                        startTime = System.nanoTime();
-                        // 3 paras
-                        processDelivery(paraList[1], paraList[2]);
-                        endTime = System.nanoTime();
-                        totalTime += (endTime-startTime);
-                        break;
-                    case 'O':
-                        startTime = System.nanoTime();
-                        // 4 paras
-                        processOrderStatus(paraList[1], paraList[2], paraList[3]);
-                        endTime = System.nanoTime();
-                        totalTime += (endTime-startTime);
-                        break;
-                    case 'S':
-                        startTime = System.nanoTime();
-                        // 5 paras
-                        processStockLevel(paraList[1], paraList[2], paraList[3], paraList[4]);
-                        endTime = System.nanoTime();
-                        totalTime += (endTime-startTime);
-                        break;
-                    case 'I':
-                        startTime = System.nanoTime();
-                        // 4 paras
-                        processPopularItem(paraList[1], paraList[2], paraList[3]);
-                        endTime = System.nanoTime();
-                        totalTime += (endTime-startTime);
-                        break;
-                    case 'T':
-                        startTime = System.nanoTime();
-                        // 1 para
-                        processTopBalance();
-                        endTime = System.nanoTime();
-                        totalTime += (endTime-startTime);
-                        break;
+                            String[][] itemsInfo = new String[numItems][];
+                            for (int i=0; i<numItems; i++){
+                                line = br.readLine().trim();
+                                itemsInfo[i] = line.replaceAll("\\s","").split(",");
+                            }
+                            processNewOrder(newOrderParaList[1],newOrderParaList[2],newOrderParaList[3], numItems, itemsInfo);
+                            endTime = System.nanoTime();
+                            totalTime += (endTime-startTime);
+                            break;
+                        case 'P':
+                            startTime = System.nanoTime();
+                            // 5 paras
+                            processPayment(paraList[1], paraList[2], paraList[3], paraList[4]);
+                            endTime = System.nanoTime();
+                            totalTime+= (endTime-startTime);
+                            break;
+                        case 'D':
+                            startTime = System.nanoTime();
+                            // 3 paras
+                            processDelivery(paraList[1], paraList[2]);
+                            endTime = System.nanoTime();
+                            totalTime += (endTime-startTime);
+                            break;
+                        case 'O':
+                            startTime = System.nanoTime();
+                            // 4 paras
+                            processOrderStatus(paraList[1], paraList[2], paraList[3]);
+                            endTime = System.nanoTime();
+                            totalTime += (endTime-startTime);
+                            break;
+                        case 'S':
+                            startTime = System.nanoTime();
+                            // 5 paras
+                            processStockLevel(paraList[1], paraList[2], paraList[3], paraList[4]);
+                            endTime = System.nanoTime();
+                            totalTime += (endTime-startTime);
+                            break;
+                        case 'I':
+                            startTime = System.nanoTime();
+                            // 4 paras
+                            processPopularItem(paraList[1], paraList[2], paraList[3]);
+                            endTime = System.nanoTime();
+                            totalTime += (endTime-startTime);
+                            break;
+                        case 'T':
+                            startTime = System.nanoTime();
+                            // 1 para
+                            processTopBalance();
+                            endTime = System.nanoTime();
+                            totalTime += (endTime-startTime);
+                            break;
+                    }
+                }catch (Exception e){
+                    e.printStackTrace();
                 }
                 line = br.readLine();
             }
@@ -141,6 +145,7 @@ public class ClientDriver {
             System.err.println("Total elapsed time: " + String.valueOf(totalTimeSeconds) + " seconds");
             double throughput = totalNumXact/totalTimeSeconds;
             System.err.println("Transaction throughput: " + String.valueOf(throughput) + "/sec");
+            cluster.close();
         } catch (java.io.IOException e) {
             e.printStackTrace();
         }

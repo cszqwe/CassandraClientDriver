@@ -1,1 +1,490 @@
 Hi, I am the client driver
+/home/cszqwe/cs4224/test.txt
+new
+Dealing with trans 1
+new order
+331, 1, 1
+[[101, 1, 8], [994, 1, 4], [227, 1, 8], [313, 1, 6], [994, 1, 2], [429, 1, 1], [719, 1, 1], [403, 1, 3], [351, 1, 6], [479, 1, 8]]
+
+
+
+order number: 5655
+entry date: 2016-10-13 11:06:27.829
+item number: 101
+item name: htetdxvyrwkfdtyjqvbzpd
+item supplier warehouse: 1
+item quantity: 8
+item amount: 211.28
+item stock: 13
+item number: 994
+item name: immzmsnoyocznjmjszfsn
+item supplier warehouse: 1
+item quantity: 4
+item amount: 50.24
+item stock: 14
+item number: 227
+item name: wfvurxjqmnknnba
+item supplier warehouse: 1
+item quantity: 8
+item amount: 236.32
+item stock: 22
+item number: 313
+item name: mrpxwnvqigshcly
+item supplier warehouse: 1
+item quantity: 6
+item amount: 318.96
+item stock: 33
+item number: 994
+item name: immzmsnoyocznjmjszfsn
+item supplier warehouse: 1
+item quantity: 2
+item amount: 25.12
+item stock: 12
+item number: 429
+item name: hiljijqrlvkcn
+item supplier warehouse: 1
+item quantity: 1
+item amount: 95.05
+item stock: 11
+item number: 719
+item name: kozuhjqicysoxykjsjvvffg
+item supplier warehouse: 1
+item quantity: 1
+item amount: 76.16
+item stock: 67
+item number: 403
+item name: lgfqsmyydvzvcdjnoan
+item supplier warehouse: 1
+item quantity: 3
+item amount: 179.19
+item stock: 93
+item number: 351
+item name: ckyqxsfisrxrxziawvdum
+item supplier warehouse: 1
+item quantity: 6
+item amount: 422.88
+item stock: 89
+item number: 479
+item name: ydjlcpubcvdmtek
+item supplier warehouse: 1
+item quantity: 8
+item amount: 314.64
+item stock: 93
+customer identifier: W_ID->1, D_ID->1, C_ID->331
+customer last name: 'PRIPRIBAR'
+customer credit: 'GC'
+customer discount: 0.3059
+warehouse tax rate: 0.129
+district tax rate: 0.1798
+number of items: 10total amount for order: 1753.1401443071993
+Dealing with trans 2
+payment
+1, 1, 331, 4508.98
+
+
+
+warehouse address - Street 1: xvcrastvybcwvmgny
+warehouse address - Street 2: rxvzxkgxtspsjdgy
+warehouse address - city: uegqflaqlo
+warehouse address - state: 123456789
+district address - Street 1: inapdxtqbxkvxpypsxb
+district address - Street 2: jfzeqkdcgifsqq
+district address - city: rwbwegnnsoebotmunf
+district address - state: 123456789
+debug 1 1
+customer address - Street 1: 'dnnsuzocecbrztie'
+customer address - Street 2: 'jeckxcesvemrepmw'
+customer address - city: 'uvjmwjpscedj'
+customer address - state: '083311111'
+customer name - first: 'mfcjcjn'
+customer name - middle: 'OE'
+customer name - last: 'PRIPRIBAR'
+customer phone: '8421495420180307'
+customer since: Mon Aug 15 16:00:34 EDT 2016
+customer credit: 'GC'
+customer credit limit: 50000.0
+customer discount: 0.3059
+Dealing with trans 3
+delivery
+1, 7
+
+
+
+Dealing with trans 4
+order status
+1, 1, 1561
+
+
+
+customer name - first: 'wctezlwuleg'
+customer name - middle: 'OE'
+customer name - last: 'ATIONPRIANTI'
+customer balance: -10.0
+order number: 1787
+entry dat and time: Mon Aug 15 16:00:40 EDT 2016
+carrier identifier: 4
+item number: 20506
+supplying warehouse number: 1
+quantity ordered: 5.0
+total price: 0.0
+date and time of delivery: Mon Aug 15 16:00:40 EDT 2016
+
+item number: 78839
+supplying warehouse number: 1
+quantity ordered: 5.0
+total price: 0.0
+date and time of delivery: Mon Aug 15 16:00:40 EDT 2016
+
+item number: 93685
+supplying warehouse number: 1
+quantity ordered: 5.0
+total price: 0.0
+date and time of delivery: Mon Aug 15 16:00:40 EDT 2016
+
+item number: 63917
+supplying warehouse number: 1
+quantity ordered: 5.0
+total price: 0.0
+date and time of delivery: Mon Aug 15 16:00:40 EDT 2016
+
+item number: 15836
+supplying warehouse number: 1
+quantity ordered: 5.0
+total price: 0.0
+date and time of delivery: Mon Aug 15 16:00:40 EDT 2016
+
+item number: 40784
+supplying warehouse number: 1
+quantity ordered: 5.0
+total price: 0.0
+date and time of delivery: Mon Aug 15 16:00:40 EDT 2016
+
+item number: 82534
+supplying warehouse number: 1
+quantity ordered: 5.0
+total price: 0.0
+date and time of delivery: Mon Aug 15 16:00:40 EDT 2016
+
+item number: 97106
+supplying warehouse number: 1
+quantity ordered: 5.0
+total price: 0.0
+date and time of delivery: Mon Aug 15 16:00:40 EDT 2016
+
+item number: 67153
+supplying warehouse number: 1
+quantity ordered: 5.0
+total price: 0.0
+date and time of delivery: Mon Aug 15 16:00:40 EDT 2016
+
+item number: 89176
+supplying warehouse number: 1
+quantity ordered: 5.0
+total price: 0.0
+date and time of delivery: Mon Aug 15 16:00:40 EDT 2016
+
+item number: 85819
+supplying warehouse number: 1
+quantity ordered: 5.0
+total price: 0.0
+date and time of delivery: Mon Aug 15 16:00:40 EDT 2016
+
+item number: 68761
+supplying warehouse number: 1
+quantity ordered: 5.0
+total price: 0.0
+date and time of delivery: Mon Aug 15 16:00:40 EDT 2016
+
+item number: 6247
+supplying warehouse number: 1
+quantity ordered: 5.0
+total price: 0.0
+date and time of delivery: Mon Aug 15 16:00:40 EDT 2016
+
+item number: 36461
+supplying warehouse number: 1
+quantity ordered: 5.0
+total price: 0.0
+date and time of delivery: Mon Aug 15 16:00:40 EDT 2016
+
+item number: 58091
+supplying warehouse number: 1
+quantity ordered: 5.0
+total price: 0.0
+date and time of delivery: Mon Aug 15 16:00:40 EDT 2016
+
+item number: 40501
+supplying warehouse number: 1
+quantity ordered: 5.0
+total price: 0.0
+date and time of delivery: Mon Aug 15 16:00:40 EDT 2016
+
+Dealing with trans 5
+stock level
+1, 1, 15, 27
+
+
+
+There are 19 items where its stock quantity at W_ID=1 is below the threshold 15
+Dealing with trans 6
+popular item
+1, 1, 50
+
+
+
+district identifier: W_ID->1 D_ID->1
+number of last orders to be examined: 50
+order number: 5606   entry date and time: Thu Oct 13 10:48:58 EDT 2016
+name of customer who placed this order: 'yipolqstysd' 'OE' 'ATIONEINGABLE'
+popular item name: nphkjfshxinqqwyoby   quantity: 10.0
+order number: 5608   entry date and time: Thu Oct 13 10:48:58 EDT 2016
+name of customer who placed this order: 'nwivfgxygmdcw' 'OE' 'ESEPRIANTI'
+order number: 5609   entry date and time: Thu Oct 13 10:48:58 EDT 2016
+name of customer who placed this order: 'ecxrvrshk' 'OE' 'ATIONATIONPRES'
+order number: 5610   entry date and time: Thu Oct 13 10:48:58 EDT 2016
+name of customer who placed this order: 'jzlxndtdktjp' 'OE' 'ATIONEINGABLE'
+order number: 5611   entry date and time: Thu Oct 13 10:48:58 EDT 2016
+name of customer who placed this order: 'drjsbhtvin' 'OE' 'EINGABLEPRES'
+order number: 5612   entry date and time: Thu Oct 13 10:48:58 EDT 2016
+name of customer who placed this order: 'mdwpsvwyud' 'OE' 'PRIESEPRES'
+order number: 5613   entry date and time: Thu Oct 13 10:48:58 EDT 2016
+name of customer who placed this order: 'nwivfgxygmdcw' 'OE' 'ESEPRIANTI'
+order number: 5614   entry date and time: Thu Oct 13 10:48:58 EDT 2016
+name of customer who placed this order: 'fkjeujftcvja' 'OE' 'PRESEINGANTI'
+order number: 5615   entry date and time: Thu Oct 13 10:48:58 EDT 2016
+name of customer who placed this order: 'nvcuokttdmwn' 'OE' 'PRESBARPRES'
+order number: 5616   entry date and time: Thu Oct 13 10:48:59 EDT 2016
+name of customer who placed this order: 'znnnzjxkgqwt' 'OE' 'PRIEINGABLE'
+order number: 5617   entry date and time: Thu Oct 13 10:48:59 EDT 2016
+name of customer who placed this order: 'jixbljnlhi' 'OE' 'ESEEINGANTI'
+order number: 5618   entry date and time: Thu Oct 13 10:48:59 EDT 2016
+name of customer who placed this order: 'vocklnqlj' 'OE' 'PRESBARCALLY'
+order number: 5619   entry date and time: Thu Oct 13 10:48:59 EDT 2016
+name of customer who placed this order: 'xeecvsm' 'OE' 'CALLYPRESESE'
+order number: 5620   entry date and time: Thu Oct 13 10:49:00 EDT 2016
+name of customer who placed this order: 'rraxipb' 'OE' 'ANTIESEABLE'
+order number: 5621   entry date and time: Thu Oct 13 10:49:00 EDT 2016
+name of customer who placed this order: 'ztqrworxnpae' 'OE' 'PRESEINGABLE'
+order number: 5622   entry date and time: Thu Oct 13 10:49:00 EDT 2016
+name of customer who placed this order: 'fjtlmgcaasddsdb' 'OE' 'CALLYATIONBAR'
+order number: 5623   entry date and time: Thu Oct 13 10:49:00 EDT 2016
+name of customer who placed this order: 'xkweccduzjyqpme' 'OE' 'PRIPRESATION'
+order number: 5624   entry date and time: Thu Oct 13 10:49:00 EDT 2016
+name of customer who placed this order: 'rftjuza' 'OE' 'ATIONABLEPRES'
+order number: 5625   entry date and time: Thu Oct 13 10:49:00 EDT 2016
+name of customer who placed this order: 'rqhzabdey' 'OE' 'OUGHTBARABLE'
+order number: 5626   entry date and time: Thu Oct 13 10:49:00 EDT 2016
+name of customer who placed this order: 'mfurktpwvq' 'OE' 'EINGOUGHTANTI'
+order number: 5627   entry date and time: Thu Oct 13 10:49:00 EDT 2016
+name of customer who placed this order: 'ztqrworxnpae' 'OE' 'PRESEINGABLE'
+order number: 5628   entry date and time: Thu Oct 13 10:49:00 EDT 2016
+name of customer who placed this order: 'jodssovco' 'OE' 'OUGHTCALLYEING'
+order number: 5629   entry date and time: Thu Oct 13 10:49:00 EDT 2016
+name of customer who placed this order: 'vmmlydthkcmdk' 'OE' 'CALLYANTIPRES'
+order number: 5630   entry date and time: Thu Oct 13 10:49:00 EDT 2016
+name of customer who placed this order: 'xksqovvjpwl' 'OE' 'ANTIATIONESE'
+order number: 5631   entry date and time: Thu Oct 13 10:49:00 EDT 2016
+name of customer who placed this order: 'racffmoykkertwu' 'OE' 'ESEANTIANTI'
+order number: 5632   entry date and time: Thu Oct 13 10:49:00 EDT 2016
+name of customer who placed this order: 'yipolqstysd' 'OE' 'ATIONEINGABLE'
+order number: 5633   entry date and time: Thu Oct 13 10:49:00 EDT 2016
+name of customer who placed this order: 'mfcjcjn' 'OE' 'PRIPRIBAR'
+order number: 5634   entry date and time: Thu Oct 13 10:49:01 EDT 2016
+name of customer who placed this order: 'ivxkbdhexg' 'OE' 'PRIATIONPRI'
+order number: 5635   entry date and time: Thu Oct 13 10:49:01 EDT 2016
+name of customer who placed this order: 'oavfchoy' 'OE' 'ATIONCALLYANTI'
+order number: 5636   entry date and time: Thu Oct 13 10:49:01 EDT 2016
+name of customer who placed this order: 'zetyifw' 'OE' 'ANTIESEBAR'
+order number: 5637   entry date and time: Thu Oct 13 10:49:01 EDT 2016
+name of customer who placed this order: 'rtncsxrszld' 'OE' 'ATIONEINGPRI'
+order number: 5638   entry date and time: Thu Oct 13 10:49:01 EDT 2016
+name of customer who placed this order: 'vzjnirtgfidpswz' 'OE' 'BARCALLYPRES'
+order number: 5639   entry date and time: Thu Oct 13 10:49:01 EDT 2016
+name of customer who placed this order: 'vstyduci' 'OE' 'OUGHTPRIABLE'
+order number: 5640   entry date and time: Thu Oct 13 10:49:01 EDT 2016
+name of customer who placed this order: 'mfurktpwvq' 'OE' 'EINGOUGHTANTI'
+order number: 5641   entry date and time: Thu Oct 13 10:49:01 EDT 2016
+name of customer who placed this order: 'bdnvhsmkfcmy' 'OE' 'OUGHTATIONBAR'
+order number: 5642   entry date and time: Thu Oct 13 10:49:01 EDT 2016
+name of customer who placed this order: 'slsxnsusqd' 'OE' 'ATIONEINGBAR'
+order number: 5643   entry date and time: Thu Oct 13 10:49:01 EDT 2016
+name of customer who placed this order: 'febsfhpdwcurzbg' 'OE' 'EINGABLEPRI'
+order number: 5644   entry date and time: Thu Oct 13 10:49:01 EDT 2016
+name of customer who placed this order: 'nkunjkeagosbyk' 'OE' 'PRIATIONCALLY'
+order number: 5645   entry date and time: Thu Oct 13 10:49:01 EDT 2016
+name of customer who placed this order: 'avbrzmzjc' 'OE' 'PRIBARATION'
+order number: 5646   entry date and time: Thu Oct 13 10:49:01 EDT 2016
+name of customer who placed this order: 'ggniybiehkvbjfm' 'OE' 'ESEANTIESE'
+order number: 5647   entry date and time: Thu Oct 13 10:49:01 EDT 2016
+name of customer who placed this order: 'mfcjcjn' 'OE' 'PRIPRIBAR'
+order number: 5648   entry date and time: Thu Oct 13 10:49:02 EDT 2016
+name of customer who placed this order: 'qgybjfwnn' 'OE' 'OUGHTBARANTI'
+order number: 5649   entry date and time: Thu Oct 13 10:49:02 EDT 2016
+name of customer who placed this order: 'zpcfuhxd' 'OE' 'ESEESEPRI'
+order number: 5650   entry date and time: Thu Oct 13 10:49:02 EDT 2016
+name of customer who placed this order: 'gkhpheibdvo' 'OE' 'BARPRIPRI'
+order number: 5651   entry date and time: Thu Oct 13 10:49:02 EDT 2016
+name of customer who placed this order: 'bikhgdvgwocbczc' 'OE' 'ANTIANTIESE'
+order number: 5652   entry date and time: Thu Oct 13 11:03:54 EDT 2016
+name of customer who placed this order: 'mfcjcjn' 'OE' 'PRIPRIBAR'
+order number: 5653   entry date and time: Thu Oct 13 11:05:01 EDT 2016
+name of customer who placed this order: 'mfcjcjn' 'OE' 'PRIPRIBAR'
+order number: 5654   entry date and time: Thu Oct 13 11:06:20 EDT 2016
+name of customer who placed this order: 'mfcjcjn' 'OE' 'PRIPRIBAR'
+order number: 5655   entry date and time: Thu Oct 13 11:06:27 EDT 2016
+name of customer who placed this order: 'mfcjcjn' 'OE' 'PRIPRIBAR'
+item name: nphkjfshxinqqwyoby
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 4.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 4.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 2.0
+item name: null
+percentage of orders in S that contain the item: 0.0
+item name: null
+percentage of orders in S that contain the item: 8.0
+Dealing with trans 7
+top balance
+
+
+
+customer name - first: 'crvynjpfab'
+customer name - middle: 'OE'
+customer name - last: 'EINGABLEPRES'
+customer balance: 131183.40000000002
+warehouse name of customer: 'sxvnjhpdq'
+district name of customer: 'eaygelqjn'
+customer name - first: 'ueqbvlnegsoalwx'
+customer name - middle: 'OE'
+customer name - last: 'ESEESEPRI'
+customer balance: 121387.19
+warehouse name of customer: 'sxvnjhpdq'
+district name of customer: 'skhgrnntg'
+customer name - first: 'vxrgenwvcv'
+customer name - middle: 'OE'
+customer name - last: 'ANTIANTICALLY'
+customer balance: 115361.73000000001
+warehouse name of customer: 'sxvnjhpdq'
+district name of customer: 'zmmcns'
+customer name - first: 'mxfysjwkjwyyl'
+customer name - middle: 'OE'
+customer name - last: 'ATIONPRESESE'
+customer balance: 108596.81999999999
+warehouse name of customer: 'sxvnjhpdq'
+district name of customer: 'cmqondzze'
+customer name - first: 'tpdxcbhkyegzuhx'
+customer name - middle: 'OE'
+customer name - last: 'ATIONBARPRES'
+customer balance: 108495.88000000002
+warehouse name of customer: 'sxvnjhpdq'
+district name of customer: 'zmmcns'
+customer name - first: 'xlvgggxsnxa'
+customer name - middle: 'OE'
+customer name - last: 'PRIOUGHTATION'
+customer balance: 107271.88000000002
+warehouse name of customer: 'sxvnjhpdq'
+district name of customer: 'ezdxgbhr'
+customer name - first: 'zigahlpwyovcwkn'
+customer name - middle: 'OE'
+customer name - last: 'OUGHTCALLYANTI'
+customer balance: 106618.92000000001
+warehouse name of customer: 'sxvnjhpdq'
+district name of customer: 'zmmcns'
+customer name - first: 'dqpytlnbxk'
+customer name - middle: 'OE'
+customer name - last: 'ESEPRICALLY'
+customer balance: 106413.98000000003
+warehouse name of customer: 'sxvnjhpdq'
+district name of customer: 'ezdxgbhr'
+customer name - first: 'kerqeucz'
+customer name - middle: 'OE'
+customer name - last: 'ATIONBARPRI'
+customer balance: 105533.52
+warehouse name of customer: 'sxvnjhpdq'
+district name of customer: 'fpiazeyq'
+customer name - first: 'hyvdfqhmxizcpfk'
+customer name - middle: 'OE'
+customer name - last: 'ESEPRIESE'
+customer balance: 103410.28
+warehouse name of customer: 'sxvnjhpdq'
+district name of customer: 'eaygelqjn'

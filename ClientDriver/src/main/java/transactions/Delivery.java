@@ -7,7 +7,7 @@ import java.util.Date;
 
 public class Delivery {
 
-    private PreparedStatement queryOldestOrderInfo, queryUpdateCarrier, queryUpdateDeliveryTime, queryUpdateCustomer, queryOrderLineAmount, queryBalanceAndCount;
+    private PreparedStatement queryDeleteBalance,queryUpdateBalance,queryOldestOrderInfo, queryUpdateCarrier, queryUpdateDeliveryTime, queryUpdateCustomer, queryOrderLineAmount, queryBalanceAndCount;
     private Session session;
     public Delivery(Session session){
         // if order has not been delivered, change carrier_id from null to -1
@@ -21,6 +21,8 @@ public class Delivery {
 
         this.queryBalanceAndCount = session.prepare("select C_BALANCE, C_DELIVERY_CNT from customer where C_w_ID=? and C_D_ID=? and C_ID=?;");
         this.queryUpdateCustomer = session.prepare("update customer set C_BALANCE=?, C_DELIVERY_CNT=? where C_W_ID=? and C_D_ID=? and C_ID=?;");
+        this.queryDeleteBalance = session.prepare("delete from balance where id = ? and c_balance = ? and C_W_ID=? and C_D_ID=? and C_ID=?;");
+        this.queryUpdateBalance = session.prepare("insert into balance (id, c_balance, c_w_id, c_d_id, c_id) values(?,?,?,?,?);");
     }
 
     // client driver will all this functioncreateOrderTable
@@ -85,8 +87,14 @@ public class Delivery {
             Double balance = resultRow.getDouble("C_BALANCE");
             int deliveryCount = resultRow.getInt("C_DELIVERY_CNT");
 
-            BoundStatement boundUpdateCust = queryUpdateCustomer.bind(balance, deliveryCount, w_id, d_id, c_id);
+            BoundStatement boundUpdateCust = queryUpdateCustomer.bind(balance + amount, deliveryCount + 1, w_id, d_id, c_id);
             session.execute(boundUpdateCust);
+            BoundStatement boundDeleteBalance = queryDeleteBalance.bind(1, balance, w_id, d_id, c_id);
+            session.execute(boundDeleteBalance);
+            BoundStatement boundUpdateBalance = queryUpdateBalance.bind(1, balance+ amount, w_id, d_id, c_id);
+            session.execute(boundUpdateBalance);
+                
+            
         }
 
     }
