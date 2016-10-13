@@ -141,14 +141,14 @@ new order
 
 
 
-order number: 5775
-entry date: 2016-10-13 11:34:34.816
+order number: 5773
+entry date: 2016-10-13 11:34:33.867
 item number: 10421
 item name: gllszdsdeuktp
 item supplier warehouse: 1
 item quantity: 8
 item amount: 773.84
-item stock: 73
+item stock: 89
 item number: 96994
 item name: zqbpvrwsoiufn
 item supplier warehouse: 1
@@ -202,7 +202,7 @@ item name: mqcoehnnuxfixseeebxvx
 item supplier warehouse: 1
 item quantity: 8
 item amount: 365.76
-item stock: 84
+item stock: 100
 customer identifier: W_ID->1, D_ID->1, C_ID->331
 customer last name: 'PRIPRIBAR'
 customer credit: 'GC'
@@ -217,8 +217,8 @@ new order
 
 
 
-order number: 5778
-entry date: 2016-10-13 11:34:36.153
+order number: 5776
+entry date: 2016-10-13 11:34:35.488
 item number: 39741
 item name: bayydskvssrcnkxzyyvs
 item supplier warehouse: 1
@@ -254,7 +254,7 @@ item name: ucbquuprqfjffhjybvrsn
 item supplier warehouse: 1
 item quantity: 4
 item amount: 383.48
-item stock: 21
+item stock: 29
 item number: 38370
 item name: qerjmfendmyfkqhwalryvgq
 item supplier warehouse: 1
@@ -281,8 +281,8 @@ new order
 
 
 
-order number: 5783
-entry date: 2016-10-13 11:34:37.372
+order number: 5780
+entry date: 2016-10-13 11:34:36.759
 item number: 75486
 item name: zygadnrhmtiikjbqbm
 item supplier warehouse: 1
@@ -339,8 +339,8 @@ new order
 
 
 
-order number: 5788
-entry date: 2016-10-13 11:34:38.374
+order number: 5787
+entry date: 2016-10-13 11:34:38.015
 item number: 40669
 item name: yakrvjgdroyctywugioeyya
 item supplier warehouse: 1
@@ -388,7 +388,7 @@ item name: gsmuvxlbclghhyvd
 item supplier warehouse: 1
 item quantity: 10
 item amount: 715.3
-item stock: 33
+item stock: 43
 customer identifier: W_ID->1, D_ID->1, C_ID->75
 customer last name: 'BARCALLYPRES'
 customer credit: 'GC'
@@ -403,8 +403,8 @@ new order
 
 
 
-order number: 5797
-entry date: 2016-10-13 11:34:39.8
+order number: 5796
+entry date: 2016-10-13 11:34:39.688
 item number: 73443
 item name: biupxikaxfbcynscjcvt
 item supplier warehouse: 1
@@ -422,7 +422,7 @@ item name: bxiagdhtwrtbkk
 item supplier warehouse: 1
 item quantity: 3
 item amount: 146.64000000000001
-item stock: 46
+item stock: 49
 item number: 14279
 item name: padixdjjqncytdugh
 item supplier warehouse: 1
@@ -452,7 +452,7 @@ item name: feqfnzldwpqmmvp
 item supplier warehouse: 1
 item quantity: 10
 item amount: 420.7
-item stock: 96
+item stock: 106
 item number: 95716
 item name: mfivesifonlhpgd
 item supplier warehouse: 1
@@ -470,7 +470,7 @@ item name: corztoqeotfqdbxzfkx
 item supplier warehouse: 1
 item quantity: 1
 item amount: 5.51
-item stock: 50
+item stock: 51
 customer identifier: W_ID->1, D_ID->1, C_ID->138
 customer last name: 'OUGHTPRICALLY'
 customer credit: 'GC'
@@ -485,14 +485,14 @@ new order
 
 
 
-order number: 5806
-entry date: 2016-10-13 11:34:41.319
+order number: 5805
+entry date: 2016-10-13 11:34:41.195
 item number: 5543
 item name: ympnvxjbxvrztfdmk
 item supplier warehouse: 1
 item quantity: 8
 item amount: 240.72
-item stock: 56
+item stock: 64
 item number: 92835
 item name: tbzpvdjrvfhzqmki
 item supplier warehouse: 1
@@ -522,7 +522,7 @@ item name: jvivgwozcgirrxdnqv
 item supplier warehouse: 1
 item quantity: 9
 item amount: 638.64
-item stock: 63
+item stock: 72
 item number: 66662
 item name: cvvwkstdbswneneitoo
 item supplier warehouse: 1
@@ -534,7 +534,7 @@ item name: faujslcjjxqdfbshvkbufll
 item supplier warehouse: 1
 item quantity: 6
 item amount: 480.72
-item stock: 52
+item stock: 58
 item number: 93861
 item name: bbaxcaakygftjd
 item supplier warehouse: 1
@@ -573,8 +573,8 @@ new order
 
 
 
-order number: 5819
-entry date: 2016-10-13 11:34:42.964
+order number: 5818
+entry date: 2016-10-13 11:34:42.814
 item number: 38630
 item name: mrgtnqfjpcvnxsvr
 item supplier warehouse: 1
@@ -691,8 +691,8 @@ new order
 
 
 
-order number: 5832
-entry date: 2016-10-13 11:34:45.142
+order number: 5829
+entry date: 2016-10-13 11:34:44.875
 item number: 24038
 item name: mvkprqenrhrtkm
 item supplier warehouse: 1
@@ -737,8 +737,8 @@ new order
 
 
 
-order number: 5838
-entry date: 2016-10-13 11:34:45.998
+order number: 5836
+entry date: 2016-10-13 11:34:45.62
 item number: 92230
 item name: jblaxauacybeyehdpfz
 item supplier warehouse: 1
@@ -819,8 +819,8 @@ new order
 
 
 
-order number: 5844
-entry date: 2016-10-13 11:34:47.288
+order number: 5843
+entry date: 2016-10-13 11:34:47.134
 item number: 64231
 item name: gfpsxgsgelxozcraltcm
 item supplier warehouse: 1
@@ -862,7 +862,7 @@ item name: plmdtweekhdvzgwk
 item supplier warehouse: 1
 item quantity: 9
 item amount: 800.64
-item stock: 58
+item stock: 67
 item number: 63807
 item name: nazarjxxiefwrzvojhupdl
 item supplier warehouse: 1
@@ -907,8 +907,8 @@ new order
 
 
 
-order number: 5853
-entry date: 2016-10-13 11:34:48.594
+order number: 5852
+entry date: 2016-10-13 11:34:48.479
 item number: 46695
 item name: gseayrmdbdvmqzgvszx
 item supplier warehouse: 1
@@ -1001,8 +1001,8 @@ new order
 
 
 
-order number: 5862
-entry date: 2016-10-13 11:34:50.254
+order number: 5860
+entry date: 2016-10-13 11:34:50.077
 item number: 40102
 item name: jjfcswmdxxtbg
 item supplier warehouse: 1
@@ -1020,7 +1020,7 @@ item name: jpdojjwgvpohuxzkgzgab
 item supplier warehouse: 1
 item quantity: 8
 item amount: 656.96
-item stock: 29
+item stock: 37
 item number: 62687
 item name: bjopljabadwtiboncws
 item supplier warehouse: 1
@@ -1047,8 +1047,8 @@ new order
 
 
 
-order number: 5867
-entry date: 2016-10-13 11:34:51.105
+order number: 5864
+entry date: 2016-10-13 11:34:50.833
 item number: 15063
 item name: ptcczvjrjoobpboq
 item supplier warehouse: 1
@@ -1066,13 +1066,13 @@ item name: gegoeuhsmynxbnu
 item supplier warehouse: 1
 item quantity: 3
 item amount: 59.849999999999994
-item stock: 90
+item stock: 93
 item number: 7871
 item name: hftnhzyjfbobseaysegmua
 item supplier warehouse: 1
 item quantity: 2
 item amount: 24.18
-item stock: 71
+item stock: 73
 item number: 81383
 item name: eewpabgmdvboxt
 item supplier warehouse: 1
@@ -1132,7 +1132,7 @@ item name: ibgtiievwqrbrhnqug
 item supplier warehouse: 1
 item quantity: 2
 item amount: 143.68
-item stock: 23
+item stock: 25
 item number: 22071
 item name: slbsjkixdckvblhbu
 item supplier warehouse: 1
@@ -1165,8 +1165,8 @@ new order
 
 
 
-order number: 5879
-entry date: 2016-10-13 11:34:52.935
+order number: 5876
+entry date: 2016-10-13 11:34:52.666
 item number: 55527
 item name: yeiajrhehmavfdz
 item supplier warehouse: 1
@@ -1302,7 +1302,7 @@ new order
 
 
 order number: 5889
-entry date: 2016-10-13 11:34:54.927
+entry date: 2016-10-13 11:34:54.909
 item number: 24295
 item name: xhcfsqzmfmjjoyn
 item supplier warehouse: 1
@@ -1401,8 +1401,8 @@ new order
 
 
 
-order number: 5897
-entry date: 2016-10-13 11:34:56.587
+order number: 5896
+entry date: 2016-10-13 11:34:56.335
 item number: 28359
 item name: zoheubpzgmhstrvg
 item supplier warehouse: 1
@@ -1420,7 +1420,7 @@ item name: njhrxepoiorzqfclr
 item supplier warehouse: 1
 item quantity: 3
 item amount: 227.07
-item stock: 57
+item stock: 60
 item number: 79936
 item name: vmdwoikpwkcik
 item supplier warehouse: 1
@@ -1483,8 +1483,8 @@ new order
 
 
 
-order number: 5907
-entry date: 2016-10-13 11:34:57.855
+order number: 5906
+entry date: 2016-10-13 11:34:57.638
 item number: 85735
 item name: alpgetooaxjarfecxysj
 item supplier warehouse: 1
@@ -1532,7 +1532,7 @@ item name: aysusnxcbtisy
 item supplier warehouse: 1
 item quantity: 2
 item amount: 3.9
-item stock: 69
+item stock: 71
 item number: 44251
 item name: pzfwlhdsmjnmobxk
 item supplier warehouse: 1
@@ -1544,7 +1544,7 @@ item name: wneqmnjbdeiezgvskgjh
 item supplier warehouse: 1
 item quantity: 3
 item amount: 91.05000000000001
-item stock: 96
+item stock: 99
 item number: 56996
 item name: sluuehixagxnmupy
 item supplier warehouse: 1
@@ -1577,8 +1577,8 @@ new order
 
 
 
-order number: 5917
-entry date: 2016-10-13 11:34:59.258
+order number: 5913
+entry date: 2016-10-13 11:34:58.955
 item number: 65243
 item name: ekqhzxhspcizqoqamseaaw
 item supplier warehouse: 1
@@ -1650,7 +1650,7 @@ item name: tzswrqccsxckdb
 item supplier warehouse: 1
 item quantity: 2
 item amount: 62.42
-item stock: 102
+item stock: 104
 item number: 22240
 item name: xujliiskjvbrgkefpxfoi
 item supplier warehouse: 1
@@ -1671,8 +1671,8 @@ new order
 
 
 
-order number: 5924
-entry date: 2016-10-13 11:35:00.721
+order number: 5921
+entry date: 2016-10-13 11:35:00.154
 item number: 56999
 item name: gqssyxxltbqqtkddojzlbg
 item supplier warehouse: 1
@@ -1720,7 +1720,7 @@ item name: ihzkisprnnfxrhxp
 item supplier warehouse: 1
 item quantity: 3
 item amount: 230.88
-item stock: 39
+item stock: 42
 customer identifier: W_ID->1, D_ID->1, C_ID->1787
 customer last name: 'PRESBAREING'
 customer credit: 'GC'
@@ -1735,8 +1735,8 @@ new order
 
 
 
-order number: 5931
-entry date: 2016-10-13 11:35:01.638
+order number: 5927
+entry date: 2016-10-13 11:35:01.224
 item number: 31639
 item name: dulshpbcccbmfap
 item supplier warehouse: 1
@@ -1754,7 +1754,7 @@ item name: vgzegktomclfgsavln
 item supplier warehouse: 1
 item quantity: 4
 item amount: 391.92
-item stock: 32
+item stock: 36
 item number: 40606
 item name: moneemweqoiyzdawtur
 item supplier warehouse: 1
@@ -1802,7 +1802,7 @@ item name: iythpqzlahyqesdeepdfvq
 item supplier warehouse: 1
 item quantity: 7
 item amount: 485.03000000000003
-item stock: 31
+item stock: 38
 item number: 17765
 item name: jjfkxvhqrhokw
 item supplier warehouse: 1
@@ -1826,7 +1826,7 @@ item name: fkbxesktxcuwkxclks
 item supplier warehouse: 1
 item quantity: 2
 item amount: 100.54
-item stock: 16
+item stock: 18
 customer identifier: W_ID->1, D_ID->1, C_ID->1911
 customer last name: 'ABLECALLYPRES'
 customer credit: 'GC'
@@ -1841,14 +1841,14 @@ new order
 
 
 
-order number: 5940
-entry date: 2016-10-13 11:35:03.006
+order number: 5937
+entry date: 2016-10-13 11:35:02.637
 item number: 12315
 item name: bajdyfxudrsbnmxrrsuka
 item supplier warehouse: 1
 item quantity: 1
 item amount: 22.07
-item stock: 17
+item stock: 18
 item number: 92816
 item name: snoodgewramzoe
 item supplier warehouse: 1
@@ -1872,7 +1872,7 @@ item name: tfdfsufklqmuun
 item supplier warehouse: 1
 item quantity: 5
 item amount: 172.10000000000002
-item stock: 21
+item stock: 26
 item number: 73375
 item name: gpiczclrlyracfhodo
 item supplier warehouse: 1
@@ -1884,7 +1884,7 @@ item name: aunhuoxpwhnxgn
 item supplier warehouse: 1
 item quantity: 4
 item amount: 313.56
-item stock: 34
+item stock: 38
 item number: 82630
 item name: lzgnymeagfuvdckx
 item supplier warehouse: 1
@@ -1938,7 +1938,7 @@ item name: nphkjfshxinqqwyoby
 item supplier warehouse: 1
 item quantity: 3
 item amount: 199.59
-item stock: 26
+item stock: 30
 customer identifier: W_ID->1, D_ID->1, C_ID->1138
 customer last name: 'PRIEINGABLE'
 customer credit: 'GC'
@@ -1953,8 +1953,8 @@ new order
 
 
 
-order number: 5950
-entry date: 2016-10-13 11:35:04.923
+order number: 5947
+entry date: 2016-10-13 11:35:04.228
 item number: 89735
 item name: sfdgippucvelpfuedcof
 item supplier warehouse: 1
@@ -2077,14 +2077,14 @@ new order
 
 
 
-order number: 5959
-entry date: 2016-10-13 11:35:06.827
+order number: 5957
+entry date: 2016-10-13 11:35:06.361
 item number: 6213
 item name: nphkjfshxinqqwyoby
 item supplier warehouse: 1
 item quantity: 1
 item amount: 66.53
-item stock: 18
+item stock: 19
 item number: 55799
 item name: ssxzqjakosfiyxqaur
 item supplier warehouse: 1
@@ -2114,7 +2114,7 @@ item name: sovzpeagqgcnrpuiqkeuzi
 item supplier warehouse: 1
 item quantity: 8
 item amount: 86.96
-item stock: 77
+item stock: 85
 item number: 84820
 item name: iuxbuguzcgzthcj
 item supplier warehouse: 1
@@ -2186,7 +2186,7 @@ item name: dfzqgpnyzmocddz
 item supplier warehouse: 1
 item quantity: 10
 item amount: 682.8
-item stock: 32
+item stock: 42
 item number: 40667
 item name: vgwuujmxjkkcghywrug
 item supplier warehouse: 1
@@ -2207,8 +2207,8 @@ new order
 
 
 
-order number: 5970
-entry date: 2016-10-13 11:35:08.976
+order number: 5967
+entry date: 2016-10-13 11:35:08.649
 item number: 22162
 item name: zhnyjekxpolnnvnaote
 item supplier warehouse: 1
@@ -2271,8 +2271,8 @@ new order
 
 
 
-order number: 5974
-entry date: 2016-10-13 11:35:09.922
+order number: 5973
+entry date: 2016-10-13 11:35:09.643
 item number: 97931
 item name: jdorswczcxeyxcjufffmeve
 item supplier warehouse: 1
@@ -2323,8 +2323,8 @@ new order
 
 
 
-order number: 5979
-entry date: 2016-10-13 11:35:10.508
+order number: 5977
+entry date: 2016-10-13 11:35:10.257
 item number: 27815
 item name: nvwubzaegoiszmhxxygz
 item supplier warehouse: 1
@@ -2369,8 +2369,8 @@ new order
 
 
 
-order number: 5981
-entry date: 2016-10-13 11:35:11.115
+order number: 5980
+entry date: 2016-10-13 11:35:10.928
 item number: 69337
 item name: mjshxsrjcwavqisfmth
 item supplier warehouse: 1
@@ -2400,7 +2400,7 @@ item name: cuevyxajhpniptt
 item supplier warehouse: 1
 item quantity: 6
 item amount: 530.16
-item stock: 109
+item stock: 15
 item number: 43622
 item name: nmawtsqhrssevpykdkofyw
 item supplier warehouse: 1
@@ -2430,7 +2430,7 @@ item name: edxtiitkvbgdwesg
 item supplier warehouse: 1
 item quantity: 1
 item amount: 75.52
-item stock: 82
+item stock: 83
 item number: 15961
 item name: mqawwyucbbmtj
 item supplier warehouse: 1
@@ -2451,8 +2451,8 @@ new order
 
 
 
-order number: 5993
-entry date: 2016-10-13 11:35:12.345
+order number: 5988
+entry date: 2016-10-13 11:35:11.966
 item number: 64738
 item name: mezdyogfhuwbmmybyk
 item supplier warehouse: 1
@@ -2500,7 +2500,7 @@ item name: hgfaiquatrdxhjnsbgef
 item supplier warehouse: 1
 item quantity: 5
 item amount: 459.7
-item stock: 29
+item stock: 34
 item number: 39654
 item name: awlgujzqasjawhjmaf
 item supplier warehouse: 1
@@ -2545,8 +2545,8 @@ new order
 
 
 
-order number: 6006
-entry date: 2016-10-13 11:35:13.684
+order number: 6001
+entry date: 2016-10-13 11:35:13.366
 item number: 81615
 item name: bwlbhdiqlvafyemhpy
 item supplier warehouse: 1
@@ -2597,8 +2597,8 @@ new order
 
 
 
-order number: 6011
-entry date: 2016-10-13 11:35:14.343
+order number: 6008
+entry date: 2016-10-13 11:35:14.084
 item number: 39527
 item name: pqezfkosqkkpztladjguqc
 item supplier warehouse: 1
@@ -2628,7 +2628,7 @@ item name: yclbfostfkcpmhxaun
 item supplier warehouse: 1
 item quantity: 7
 item amount: 475.09000000000003
-item stock: 96
+item stock: 103
 customer identifier: W_ID->1, D_ID->1, C_ID->1283
 customer last name: 'ESEPRIANTI'
 customer credit: 'GC'
@@ -2643,14 +2643,14 @@ new order
 
 
 
-order number: 6016
-entry date: 2016-10-13 11:35:14.893
+order number: 6014
+entry date: 2016-10-13 11:35:14.769
 item number: 12133
 item name: cqkezvmxssstpnqybrvuve
 item supplier warehouse: 1
 item quantity: 2
 item amount: 114.7
-item stock: 12
+item stock: 14
 item number: 37414
 item name: dbsdfklmujpdwvks
 item supplier warehouse: 1
@@ -2668,7 +2668,7 @@ item name: wczebhmrlkvlxvktgkuy
 item supplier warehouse: 1
 item quantity: 2
 item amount: 61.82
-item stock: 22
+item stock: 24
 item number: 52967
 item name: aqrqsnkurbkquygidzvo
 item supplier warehouse: 1
@@ -2713,8 +2713,8 @@ new order
 
 
 
-order number: 6024
-entry date: 2016-10-13 11:35:15.951
+order number: 6023
+entry date: 2016-10-13 11:35:15.709
 item number: 49845
 item name: pewwqdlrjhaexgehibzmqxr
 item supplier warehouse: 1
@@ -2783,8 +2783,8 @@ new order
 
 
 
-order number: 6034
-entry date: 2016-10-13 11:35:17.024
+order number: 6029
+entry date: 2016-10-13 11:35:16.482
 item number: 63206
 item name: nsfjsfyptdhytymvtcngahu
 item supplier warehouse: 1
@@ -2850,7 +2850,7 @@ item name: ymwiwlbyjgehc
 item supplier warehouse: 1
 item quantity: 6
 item amount: 507.24
-item stock: 13
+item stock: 19
 item number: 89798
 item name: vidrnvxtmnediwrdbmm
 item supplier warehouse: 1
@@ -2889,14 +2889,14 @@ new order
 
 
 
-order number: 6046
-entry date: 2016-10-13 11:35:18.889
+order number: 6041
+entry date: 2016-10-13 11:35:18.133
 item number: 2247
 item name: vbsaeofyiencpmnqgd
 item supplier warehouse: 1
 item quantity: 7
 item amount: 7.07
-item stock: 63
+item stock: 70
 item number: 73318
 item name: sesexiwpzvjrdaeune
 item supplier warehouse: 1
@@ -3013,8 +3013,8 @@ new order
 
 
 
-order number: 6057
-entry date: 2016-10-13 11:35:20.93
+order number: 6054
+entry date: 2016-10-13 11:35:20.299
 item number: 48789
 item name: ayudlhyxmnnrdtaqx
 item supplier warehouse: 1
@@ -3026,7 +3026,7 @@ item name: deighbipfajzrw
 item supplier warehouse: 1
 item quantity: 5
 item amount: 66.15
-item stock: 11
+item stock: 16
 item number: 80517
 item name: sgsavpdjagjohvxykqhusa
 item supplier warehouse: 1
@@ -3149,20 +3149,20 @@ new order
 
 
 
-order number: 6069
-entry date: 2016-10-13 11:35:23.165
+order number: 6064
+entry date: 2016-10-13 11:35:22.111
 item number: 5866
 item name: ihvlcfzxpnboymcxqpr
 item supplier warehouse: 1
 item quantity: 10
 item amount: 648.1999999999999
-item stock: 43
+item stock: 53
 item number: 5431
 item name: zzecbqowxpmudmheskuat
 item supplier warehouse: 1
 item quantity: 4
 item amount: 268.64
-item stock: 36
+item stock: 40
 item number: 62115
 item name: odlclyjxkebfhbdem
 item supplier warehouse: 1
@@ -3174,7 +3174,7 @@ item name: nxqielekpinbbqwqb
 item supplier warehouse: 1
 item quantity: 6
 item amount: 327.48
-item stock: 27
+item stock: 33
 item number: 53975
 item name: nwjdiqignyhdhqhpwkrszih
 item supplier warehouse: 1
@@ -3240,13 +3240,13 @@ item name: xyehaczlombhtuztkaor
 item supplier warehouse: 1
 item quantity: 4
 item amount: 192.12
-item stock: 39
+item stock: 43
 item number: 6067
 item name: zlfanegvunejloxhjhx
 item supplier warehouse: 1
 item quantity: 7
 item amount: 24.78
-item stock: 79
+item stock: 86
 item number: 79975
 item name: qzcaoflniknazjp
 item supplier warehouse: 1
@@ -3279,8 +3279,8 @@ new order
 
 
 
-order number: 6079
-entry date: 2016-10-13 11:35:25.182
+order number: 6075
+entry date: 2016-10-13 11:35:24.329
 item number: 88791
 item name: ifgkzxchkgttqt
 item supplier warehouse: 1
@@ -3331,14 +3331,14 @@ new order
 
 
 
-order number: 6082
-entry date: 2016-10-13 11:35:25.763
+order number: 6078
+entry date: 2016-10-13 11:35:25.071
 item number: 5638
 item name: wtzekuyzwwntehaokagti
 item supplier warehouse: 1
 item quantity: 2
 item amount: 107.54
-item stock: 76
+item stock: 78
 item number: 53646
 item name: ikigrmfmpygbekldyvfsz
 item supplier warehouse: 1
@@ -3356,7 +3356,7 @@ item name: nnlbhcsgeqmwpghxn
 item supplier warehouse: 1
 item quantity: 1
 item amount: 41.42
-item stock: 17
+item stock: 18
 item number: 31653
 item name: xxrkbjxlgjjnrznspmncgnt
 item supplier warehouse: 1
@@ -3407,8 +3407,8 @@ new order
 
 
 
-order number: 6091
-entry date: 2016-10-13 11:35:26.967
+order number: 6084
+entry date: 2016-10-13 11:35:26.068
 item number: 55775
 item name: dnkypapcmzawdxditvfutvk
 item supplier warehouse: 1
@@ -3510,7 +3510,7 @@ item name: fkbxesktxcuwkxclks
 item supplier warehouse: 1
 item quantity: 7
 item amount: 351.89000000000004
-item stock: 81
+item stock: 88
 customer identifier: W_ID->1, D_ID->1, C_ID->1763
 customer last name: 'CALLYATIONBAR'
 customer credit: 'GC'
@@ -3525,8 +3525,8 @@ new order
 
 
 
-order number: 6102
-entry date: 2016-10-13 11:35:28.685
+order number: 6097
+entry date: 2016-10-13 11:35:28.029
 item number: 97707
 item name: bnxtcdmuyfdityibzsbz
 item supplier warehouse: 1
@@ -3571,8 +3571,8 @@ new order
 
 
 
-order number: 6107
-entry date: 2016-10-13 11:35:29.357
+order number: 6101
+entry date: 2016-10-13 11:35:28.624
 item number: 83687
 item name: qeqhyvdedyzrspvyf
 item supplier warehouse: 1
@@ -3584,7 +3584,7 @@ item name: wneqmnjbdeiezgvskgjh
 item supplier warehouse: 1
 item quantity: 7
 item amount: 212.45000000000002
-item stock: 57
+item stock: 64
 item number: 48711
 item name: ynybmmguilikgalqh
 item supplier warehouse: 1
@@ -3602,7 +3602,7 @@ item name: ksziizegjwcwqebcm
 item supplier warehouse: 1
 item quantity: 5
 item amount: 154.85
-item stock: 23
+item stock: 28
 customer identifier: W_ID->1, D_ID->1, C_ID->825
 customer last name: 'ATIONABLEPRES'
 customer credit: 'GC'
@@ -3617,8 +3617,8 @@ new order
 
 
 
-order number: 6111
-entry date: 2016-10-13 11:35:30.141
+order number: 6106
+entry date: 2016-10-13 11:35:29.189
 item number: 64738
 item name: mezdyogfhuwbmmybyk
 item supplier warehouse: 1
@@ -3642,7 +3642,7 @@ item name: kqzqcfvnfmydgudwpwd
 item supplier warehouse: 1
 item quantity: 3
 item amount: 38.19
-item stock: 36
+item stock: 39
 item number: 24243
 item name: foxcmplbqyqojvcr
 item supplier warehouse: 1
@@ -3672,7 +3672,7 @@ item name: hzfbxafecwsgffedgr
 item supplier warehouse: 1
 item quantity: 7
 item amount: 379.19
-item stock: 29
+item stock: 36
 item number: 48871
 item name: liqrpngnaergmoanmjiwww
 item supplier warehouse: 1
@@ -3753,8 +3753,8 @@ new order
 
 
 
-order number: 6126
-entry date: 2016-10-13 11:35:32.056
+order number: 6118
+entry date: 2016-10-13 11:35:31.035
 item number: 85477
 item name: kunwdxtkgcwvlkmxor
 item supplier warehouse: 1
@@ -3766,7 +3766,7 @@ item name: ewgegmjeayrnotmtqk
 item supplier warehouse: 1
 item quantity: 2
 item amount: 103.34
-item stock: 59
+item stock: 61
 item number: 97831
 item name: uuvdwegeigvdiihbwmwywfv
 item supplier warehouse: 1
@@ -3817,8 +3817,8 @@ new order
 
 
 
-order number: 6132
-entry date: 2016-10-13 11:35:32.774
+order number: 6123
+entry date: 2016-10-13 11:35:31.775
 item number: 57567
 item name: odvcigwlcxrxv
 item supplier warehouse: 1
@@ -3854,7 +3854,7 @@ item name: yvzmgatwpkefhidnucgjb
 item supplier warehouse: 1
 item quantity: 8
 item amount: 464.64
-item stock: 42
+item stock: 50
 item number: 73159
 item name: ftdmquokslfqhntz
 item supplier warehouse: 1
@@ -3911,8 +3911,8 @@ new order
 
 
 
-order number: 6140
-entry date: 2016-10-13 11:35:33.83
+order number: 6135
+entry date: 2016-10-13 11:35:32.881
 item number: 36567
 item name: qowwltqoprssafebpoj
 item supplier warehouse: 1
@@ -3930,7 +3930,7 @@ item name: kjbighepqrcfkpawkxysdze
 item supplier warehouse: 1
 item quantity: 8
 item amount: 499.76
-item stock: 57
+item stock: 65
 item number: 40103
 item name: ncravbggpkuvnjaatidqcu
 item supplier warehouse: 1
@@ -3978,7 +3978,7 @@ item name: imjnexvjrnsisljs
 item supplier warehouse: 1
 item quantity: 7
 item amount: 628.5300000000001
-item stock: 82
+item stock: 89
 item number: 71399
 item name: mwdilbjzolode
 item supplier warehouse: 1
@@ -4011,8 +4011,8 @@ new order
 
 
 
-order number: 6150
-entry date: 2016-10-13 11:35:35.091
+order number: 6142
+entry date: 2016-10-13 11:35:34.0
 item number: 15983
 item name: xrqnjwckuvbjs
 item supplier warehouse: 1
@@ -4036,7 +4036,7 @@ item name: mqtlyvrbnwzxkjqldoamzqp
 item supplier warehouse: 1
 item quantity: 9
 item amount: 337.14
-item stock: 23
+item stock: 32
 item number: 40135
 item name: vrnbwvsieibdrpqarhatvj
 item supplier warehouse: 1
@@ -4054,19 +4054,19 @@ item name: wxwbkwpfoyxpbiuphuohcr
 item supplier warehouse: 1
 item quantity: 7
 item amount: 513.94
-item stock: 17
+item stock: 24
 item number: 5191
 item name: cckzqvgneojqksjbsdbd
 item supplier warehouse: 1
 item quantity: 4
 item amount: 284.68
-item stock: 94
+item stock: 98
 item number: 6179
 item name: xkrwdvuokdiksfssmjqmfi
 item supplier warehouse: 1
 item quantity: 7
 item amount: 253.19
-item stock: 77
+item stock: 84
 item number: 97279
 item name: bfijvnoluazogak
 item supplier warehouse: 1
@@ -4087,8 +4087,8 @@ new order
 
 
 
-order number: 6155
-entry date: 2016-10-13 11:35:36.12
+order number: 6150
+entry date: 2016-10-13 11:35:35.101
 item number: 23139
 item name: uashlmtaalhgqvm
 item supplier warehouse: 1
@@ -4106,7 +4106,7 @@ item name: exkemrvinhgyrsenmvts
 item supplier warehouse: 1
 item quantity: 7
 item amount: 118.50999999999999
-item stock: 56
+item stock: 63
 item number: 65243
 item name: ekqhzxhspcizqoqamseaaw
 item supplier warehouse: 1
@@ -4142,7 +4142,7 @@ item name: vokdiqnrijkpndgoih
 item supplier warehouse: 1
 item quantity: 4
 item amount: 48.48
-item stock: 101
+item stock: 105
 item number: 40227
 item name: hfvdddqksgdydkl
 item supplier warehouse: 1
@@ -4163,8 +4163,8 @@ new order
 
 
 
-order number: 6161
-entry date: 2016-10-13 11:35:37.0
+order number: 6154
+entry date: 2016-10-13 11:35:36.034
 item number: 65253
 item name: dieveeayhftqrcxfkpymm
 item supplier warehouse: 1
@@ -4257,8 +4257,8 @@ new order
 
 
 
-order number: 6168
-entry date: 2016-10-13 11:35:38.087
+order number: 6162
+entry date: 2016-10-13 11:35:37.094
 item number: 26319
 item name: tcpjwxtgdmzmjinh
 item supplier warehouse: 1
@@ -4270,7 +4270,7 @@ item name: admnxcudcgpnrbwmic
 item supplier warehouse: 1
 item quantity: 10
 item amount: 507.1
-item stock: 72
+item stock: 82
 item number: 28391
 item name: oxnnezcwkdjugwwlcvbhrla
 item supplier warehouse: 1
@@ -4306,7 +4306,7 @@ item name: vjomryqfzcoweq
 item supplier warehouse: 1
 item quantity: 4
 item amount: 336.8
-item stock: 104
+item stock: 108
 item number: 93917
 item name: hfzuolfphggwjekxcord
 item supplier warehouse: 1
@@ -4345,14 +4345,14 @@ new order
 
 
 
-order number: 6177
-entry date: 2016-10-13 11:35:39.353
+order number: 6171
+entry date: 2016-10-13 11:35:38.338
 item number: 11617
 item name: mjnngsopekaxvnbwsui
 item supplier warehouse: 1
 item quantity: 5
 item amount: 341.95
-item stock: 50
+item stock: 55
 item number: 98007
 item name: llrplyspstofvdz
 item supplier warehouse: 1
@@ -4418,7 +4418,7 @@ item name: gdctzondaymneycqt
 item supplier warehouse: 1
 item quantity: 10
 item amount: 784.8000000000001
-item stock: 68
+item stock: 78
 item number: 71808
 item name: rhdhrtfkyikuyqbq
 item supplier warehouse: 1
@@ -4442,7 +4442,7 @@ item name: dpouhobvqouawtnjyka
 item supplier warehouse: 1
 item quantity: 4
 item amount: 284.88
-item stock: 41
+item stock: 45
 customer identifier: W_ID->1, D_ID->1, C_ID->331
 customer last name: 'PRIPRIBAR'
 customer credit: 'GC'
@@ -4457,8 +4457,8 @@ new order
 
 
 
-order number: 6187
-entry date: 2016-10-13 11:35:41.092
+order number: 6181
+entry date: 2016-10-13 11:35:39.906
 item number: 63199
 item name: ixtjsgebqpjxpjinow
 item supplier warehouse: 1
@@ -4482,7 +4482,7 @@ item name: tckbjdbyuxpfwidm
 item supplier warehouse: 1
 item quantity: 6
 item amount: 353.94
-item stock: 85
+item stock: 91
 item number: 60575
 item name: uqnhlevxuwspzadeepz
 item supplier warehouse: 1
@@ -4494,7 +4494,7 @@ item name: szqlxlvdcllustewkfsvpmt
 item supplier warehouse: 1
 item quantity: 2
 item amount: 117.18
-item stock: 41
+item stock: 43
 item number: 23178
 item name: qoyhpulplkemhpwviwzhzmn
 item supplier warehouse: 1
@@ -4545,8 +4545,8 @@ new order
 
 
 
-order number: 6194
-entry date: 2016-10-13 11:35:42.327
+order number: 6189
+entry date: 2016-10-13 11:35:41.304
 item number: 31973
 item name: eljtwrzftttawb
 item supplier warehouse: 1
@@ -4564,7 +4564,7 @@ item name: mgcdgdfhxnwfy
 item supplier warehouse: 1
 item quantity: 8
 item amount: 639.76
-item stock: 21
+item stock: 29
 item number: 85703
 item name: zwrpnohaupolcb
 item supplier warehouse: 1
@@ -4633,8 +4633,8 @@ new order
 
 
 
-order number: 6202
-entry date: 2016-10-13 11:35:43.487
+order number: 6198
+entry date: 2016-10-13 11:35:42.578
 item number: 48603
 item name: ubigdbbsdqvnqjscjdv
 item supplier warehouse: 1
@@ -4685,8 +4685,8 @@ new order
 
 
 
-order number: 6206
-entry date: 2016-10-13 11:35:43.938
+order number: 6201
+entry date: 2016-10-13 11:35:43.316
 item number: 40355
 item name: logqlafouqkohavr
 item supplier warehouse: 1
@@ -4722,13 +4722,13 @@ item name: vddoamaywksnwifixty
 item supplier warehouse: 1
 item quantity: 6
 item amount: 144.72
-item stock: 56
+item stock: 62
 item number: 11479
 item name: bahszhorzeevlahmxlxad
 item supplier warehouse: 1
 item quantity: 1
 item amount: 65.28
-item stock: 20
+item stock: 21
 customer identifier: W_ID->1, D_ID->1, C_ID->894
 customer last name: 'ATIONEINGPRI'
 customer credit: 'GC'
@@ -4743,14 +4743,14 @@ new order
 
 
 
-order number: 6215
-entry date: 2016-10-13 11:35:44.806
+order number: 6208
+entry date: 2016-10-13 11:35:44.231
 item number: 4919
 item name: wdktofhxxvtoujtat
 item supplier warehouse: 1
 item quantity: 10
 item amount: 299.5
-item stock: 80
+item stock: 100
 item number: 32487
 item name: alzfmwuolaewgnrlpwoc
 item supplier warehouse: 1
@@ -4768,7 +4768,7 @@ item name: mawdeeaalvqxebfgcxlcv
 item supplier warehouse: 1
 item quantity: 1
 item amount: 48.21
-item stock: 59
+item stock: 61
 item number: 30234
 item name: oodjbketffjvlbnsyn
 item supplier warehouse: 1
@@ -4792,7 +4792,7 @@ item name: utgvozxbjhagq
 item supplier warehouse: 1
 item quantity: 7
 item amount: 169.96
-item stock: 23
+item stock: 30
 item number: 62694
 item name: zjpjlswjesvxqhdosgu
 item supplier warehouse: 1
@@ -4831,8 +4831,8 @@ new order
 
 
 
-order number: 6226
-entry date: 2016-10-13 11:35:46.011
+order number: 6219
+entry date: 2016-10-13 11:35:45.115
 item number: 89829
 item name: nzqaqkudhiulfaq
 item supplier warehouse: 1
@@ -4919,8 +4919,8 @@ new order
 
 
 
-order number: 6236
-entry date: 2016-10-13 11:35:47.185
+order number: 6228
+entry date: 2016-10-13 11:35:46.313
 item number: 97383
 item name: boxtdfmsdhazrplcwyamo
 item supplier warehouse: 1
@@ -4956,7 +4956,7 @@ item name: ajyoeockbilbau
 item supplier warehouse: 1
 item quantity: 3
 item amount: 265.89
-item stock: 19
+item stock: 25
 item number: 32483
 item name: scjmischosygkypgna
 item supplier warehouse: 1
@@ -4977,14 +4977,14 @@ new order
 
 
 
-order number: 6240
-entry date: 2016-10-13 11:35:47.989
+order number: 6235
+entry date: 2016-10-13 11:35:47.14
 item number: 3061
 item name: lmspetyudfknybuuidxvow
 item supplier warehouse: 1
 item quantity: 10
 item amount: 602.3
-item stock: 75
+item stock: 85
 item number: 67175
 item name: gdyfyjyrggstmzxecrtpzdd
 item supplier warehouse: 1
@@ -5089,8 +5089,8 @@ new order
 
 
 
-order number: 6251
-entry date: 2016-10-13 11:35:49.577
+order number: 6246
+entry date: 2016-10-13 11:35:48.54
 item number: 45655
 item name: firhzxmcmjvihat
 item supplier warehouse: 1
@@ -5108,7 +5108,7 @@ item name: xwcgymfwqaxmgizyogkj
 item supplier warehouse: 1
 item quantity: 10
 item amount: 57.800000000000004
-item stock: 86
+item stock: 96
 item number: 40543
 item name: czpaeevpccimdghbzx
 item supplier warehouse: 1
@@ -5225,8 +5225,8 @@ new order
 
 
 
-order number: 6261
-entry date: 2016-10-13 11:35:51.516
+order number: 6257
+entry date: 2016-10-13 11:35:50.742
 item number: 18150
 item name: fwciixkknwkvehszixc
 item supplier warehouse: 2
@@ -5244,7 +5244,7 @@ item name: pbltxzknyzaowvdqtisgax
 item supplier warehouse: 1
 item quantity: 3
 item amount: 69.17999999999999
-item stock: 96
+item stock: 99
 item number: 40633
 item name: aepkhefluajmafcbyg
 item supplier warehouse: 1
@@ -5307,8 +5307,8 @@ new order
 
 
 
-order number: 6268
-entry date: 2016-10-13 11:35:52.475
+order number: 6263
+entry date: 2016-10-13 11:35:51.802
 item number: 22119
 item name: uqgkmpdmttxxunngl
 item supplier warehouse: 1
@@ -5356,7 +5356,7 @@ item name: xittvjdnhmeozdvzttml
 item supplier warehouse: 1
 item quantity: 7
 item amount: 176.54
-item stock: 23
+item stock: 30
 customer identifier: W_ID->1, D_ID->1, C_ID->1779
 customer last name: 'PRIATIONCALLY'
 customer credit: 'GC'
@@ -5371,8 +5371,8 @@ new order
 
 
 
-order number: 6270
-entry date: 2016-10-13 11:35:53.231
+order number: 6267
+entry date: 2016-10-13 11:35:52.369
 item number: 27878
 item name: cfzufwrjcjwhogqwotxu
 item supplier warehouse: 1
@@ -5483,8 +5483,8 @@ new order
 
 
 
-order number: 6282
-entry date: 2016-10-13 11:35:54.636
+order number: 6275
+entry date: 2016-10-13 11:35:53.825
 item number: 63702
 item name: itjxnoacheekfmq
 item supplier warehouse: 1
@@ -5535,14 +5535,14 @@ new order
 
 
 
-order number: 6286
-entry date: 2016-10-13 11:35:55.248
+order number: 6281
+entry date: 2016-10-13 11:35:54.517
 item number: 6215
 item name: bpnrpdscyijvrubtwazgwjk
 item supplier warehouse: 1
 item quantity: 8
 item amount: 570.08
-item stock: 101
+item stock: 109
 item number: 57042
 item name: rlbvldstvmwswuvf
 item supplier warehouse: 1
@@ -5620,7 +5620,7 @@ item name: rtofrjgwdezxxrv
 item supplier warehouse: 1
 item quantity: 5
 item amount: 476.3
-item stock: 92
+item stock: 97
 item number: 87109
 item name: iyxleyluldsbfnzfezx
 item supplier warehouse: 1
@@ -5647,14 +5647,14 @@ new order
 
 
 
-order number: 6297
-entry date: 2016-10-13 11:35:56.554
+order number: 6291
+entry date: 2016-10-13 11:35:55.904
 item number: 6082
 item name: pxtlslagbvfkf
 item supplier warehouse: 1
 item quantity: 2
 item amount: 79.42
-item stock: 106
+item stock: 108
 item number: 83141
 item name: symoqnoxybuufgx
 item supplier warehouse: 1
@@ -5702,7 +5702,7 @@ item name: zgtxxhszngfmyulcepu
 item supplier warehouse: 1
 item quantity: 4
 item amount: 150.92
-item stock: 44
+item stock: 48
 item number: 86719
 item name: smimaprevktxsyciyejxzmv
 item supplier warehouse: 1
@@ -5783,8 +5783,8 @@ new order
 
 
 
-order number: 6305
-entry date: 2016-10-13 11:35:57.985
+order number: 6302
+entry date: 2016-10-13 11:35:57.577
 item number: 65189
 item name: ldhtugrkaizvam
 item supplier warehouse: 1
@@ -5796,7 +5796,7 @@ item name: ncsvgyyjimfccwevdxujbtj
 item supplier warehouse: 1
 item quantity: 8
 item amount: 515.36
-item stock: 89
+item stock: 97
 item number: 48859
 item name: qjneclyebnxznm
 item supplier warehouse: 1
@@ -5832,7 +5832,7 @@ item name: pdnzstapqeacr
 item supplier warehouse: 1
 item quantity: 1
 item amount: 47.04
-item stock: 61
+item stock: 62
 item number: 73319
 item name: pjqlwxlronlcun
 item supplier warehouse: 1
@@ -5883,14 +5883,14 @@ new order
 
 
 
-order number: 6313
-entry date: 2016-10-13 11:35:59.13
+order number: 6309
+entry date: 2016-10-13 11:35:58.622
 item number: 10051
 item name: hkqfsdvwyxvfuiicgt
 item supplier warehouse: 1
 item quantity: 4
 item amount: 370.52
-item stock: 97
+item stock: 101
 item number: 24224
 item name: xawqnihayndacpyncpsno
 item supplier warehouse: 1
@@ -5920,13 +5920,13 @@ item name: wneqmnjbdeiezgvskgjh
 item supplier warehouse: 1
 item quantity: 2
 item amount: 60.7
-item stock: 109
+item stock: 11
 item number: 9956
 item name: kplqhwygvqxpbgd
 item supplier warehouse: 1
 item quantity: 6
 item amount: 90.42
-item stock: 98
+item stock: 104
 item number: 88775
 item name: tfdfaqhaovyyuctgzzifa
 item supplier warehouse: 1
@@ -5947,8 +5947,8 @@ new order
 
 
 
-order number: 6320
-entry date: 2016-10-13 11:35:59.771
+order number: 6316
+entry date: 2016-10-13 11:35:59.222
 item number: 39247
 item name: lelarxjmrmxkdcczg
 item supplier warehouse: 1
@@ -6038,7 +6038,7 @@ item name: aeetdwfceyfaqraffmze
 item supplier warehouse: 1
 item quantity: 5
 item amount: 184.0
-item stock: 57
+item stock: 62
 item number: 24230
 item name: ojowtbbgkhjfyyyb
 item supplier warehouse: 1
@@ -6056,7 +6056,7 @@ item name: qgwovtlyatlkfph
 item supplier warehouse: 1
 item quantity: 9
 item amount: 645.93
-item stock: 42
+item stock: 51
 item number: 51863
 item name: tmrmwuyebijrboydy
 item supplier warehouse: 1
@@ -6083,8 +6083,8 @@ new order
 
 
 
-order number: 6331
-entry date: 2016-10-13 11:36:01.49
+order number: 6329
+entry date: 2016-10-13 11:36:00.8
 item number: 19509
 item name: vdxraalthvikigtv
 item supplier warehouse: 1
@@ -6132,13 +6132,13 @@ item name: svjnfcdspbzkmlibeblcvv
 item supplier warehouse: 1
 item quantity: 4
 item amount: 34.6
-item stock: 17
+item stock: 21
 item number: 2086
 item name: cncdrvqymgxupmlhhddh
 item supplier warehouse: 1
 item quantity: 2
 item amount: 134.4
-item stock: 45
+item stock: 47
 item number: 89797
 item name: tpyavjmthzsohjf
 item supplier warehouse: 1
@@ -6186,7 +6186,7 @@ item name: guzpigurthukwk
 item supplier warehouse: 1
 item quantity: 5
 item amount: 256.45
-item stock: 26
+item stock: 31
 item number: 45735
 item name: shmqdujkahbscukottsn
 item supplier warehouse: 1
@@ -6198,7 +6198,7 @@ item name: gfvnwkrommgtgdxwi
 item supplier warehouse: 1
 item quantity: 7
 item amount: 212.79999999999998
-item stock: 95
+item stock: 102
 item number: 52923
 item name: ujswmyslijzzwbhz
 item supplier warehouse: 1
@@ -6219,8 +6219,8 @@ new order
 
 
 
-order number: 6343
-entry date: 2016-10-13 11:36:03.098
+order number: 6341
+entry date: 2016-10-13 11:36:02.821
 item number: 76639
 item name: tsabuivohjiztlhdvnoobu
 item supplier warehouse: 1
@@ -6343,8 +6343,8 @@ new order
 
 
 
-order number: 6352
-entry date: 2016-10-13 11:36:04.174
+order number: 6350
+entry date: 2016-10-13 11:36:03.985
 item number: 56775
 item name: rxrzfbgwiqadbc
 item supplier warehouse: 1
@@ -6386,7 +6386,7 @@ item name: fneepgyxyxayhfrqa
 item supplier warehouse: 1
 item quantity: 8
 item amount: 156.96
-item stock: 83
+item stock: 91
 customer identifier: W_ID->1, D_ID->1, C_ID->2131
 customer last name: 'ABLEATIONPRES'
 customer credit: 'GC'
@@ -6401,8 +6401,8 @@ new order
 
 
 
-order number: 6356
-entry date: 2016-10-13 11:36:04.932
+order number: 6355
+entry date: 2016-10-13 11:36:04.421
 item number: 85221
 item name: kcmbennenhwensipqvoumg
 item supplier warehouse: 1
@@ -6447,8 +6447,8 @@ new order
 
 
 
-order number: 6361
-entry date: 2016-10-13 11:36:05.284
+order number: 6357
+entry date: 2016-10-13 11:36:05.031
 item number: 98016
 item name: gujxflzbgwhboah
 item supplier warehouse: 1
@@ -6490,7 +6490,7 @@ item name: xilojlkwielfmyordmbbyxt
 item supplier warehouse: 1
 item quantity: 6
 item amount: 311.34000000000003
-item stock: 98
+item stock: 104
 item number: 48807
 item name: ntnltwfyqdssmoxvjm
 item supplier warehouse: 1
@@ -6559,8 +6559,8 @@ new order
 
 
 
-order number: 6373
-entry date: 2016-10-13 11:36:06.662
+order number: 6368
+entry date: 2016-10-13 11:36:06.268
 item number: 96903
 item name: cfsykoxumawgdbryvqvcttn
 item supplier warehouse: 1
@@ -6635,8 +6635,8 @@ new order
 
 
 
-order number: 6380
-entry date: 2016-10-13 11:36:07.735
+order number: 6377
+entry date: 2016-10-13 11:36:07.31
 item number: 70879
 item name: roigevxgnvoiqrp
 item supplier warehouse: 1
@@ -6708,7 +6708,7 @@ item name: ykqcsubjhsrhwfpr
 item supplier warehouse: 1
 item quantity: 2
 item amount: 136.98
-item stock: 27
+item stock: 31
 item number: 46164
 item name: ynumwtlsotxzdxkww
 item supplier warehouse: 1
@@ -6726,7 +6726,7 @@ item name: iaihazhxcwmhez
 item supplier warehouse: 1
 item quantity: 4
 item amount: 332.96
-item stock: 55
+item stock: 63
 item number: 89315
 item name: xrweqgoigkxngk
 item supplier warehouse: 1
@@ -6747,8 +6747,8 @@ new order
 
 
 
-order number: 6390
-entry date: 2016-10-13 11:36:09.339
+order number: 6386
+entry date: 2016-10-13 11:36:08.679
 item number: 47783
 item name: tstdfkdtkfymju
 item supplier warehouse: 1
@@ -6778,13 +6778,13 @@ item name: rwjgtjwtmhbhkxtqahl
 item supplier warehouse: 1
 item quantity: 8
 item amount: 766.48
-item stock: 96
+item stock: 12
 item number: 7622
 item name: jkdbmwwzoxktdchmn
 item supplier warehouse: 1
 item quantity: 2
 item amount: 3.26
-item stock: 27
+item stock: 31
 item number: 63167
 item name: mnpttoltypkeqrma
 item supplier warehouse: 1
@@ -6823,8 +6823,8 @@ new order
 
 
 
-order number: 6399
-entry date: 2016-10-13 11:36:10.605
+order number: 6392
+entry date: 2016-10-13 11:36:09.73
 item number: 64065
 item name: trlzlzmdmmnxnhb
 item supplier warehouse: 1
@@ -6860,7 +6860,7 @@ item name: kdiowubrspfiq
 item supplier warehouse: 1
 item quantity: 2
 item amount: 8.7
-item stock: 26
+item stock: 30
 item number: 31365
 item name: iqzeldbppmvyfamqxo
 item supplier warehouse: 1
@@ -6893,8 +6893,8 @@ new order
 
 
 
-order number: 6407
-entry date: 2016-10-13 11:36:11.408
+order number: 6400
+entry date: 2016-10-13 11:36:10.621
 item number: 77479
 item name: lqmstccckioqqsejqec
 item supplier warehouse: 1
@@ -6924,7 +6924,7 @@ item name: nhwbsulmbdgosfcrtdmsa
 item supplier warehouse: 1
 item quantity: 10
 item amount: 719.0
-item stock: 103
+item stock: 23
 customer identifier: W_ID->1, D_ID->1, C_ID->299
 customer last name: 'ABLEEINGATION'
 customer credit: 'BC'
@@ -6939,8 +6939,8 @@ new order
 
 
 
-order number: 6412
-entry date: 2016-10-13 11:36:12.241
+order number: 6405
+entry date: 2016-10-13 11:36:11.169
 item number: 42087
 item name: wezcuxmzxnuoaljvwda
 item supplier warehouse: 1
@@ -6997,14 +6997,14 @@ new order
 
 
 
-order number: 6421
-entry date: 2016-10-13 11:36:13.261
+order number: 6410
+entry date: 2016-10-13 11:36:11.877
 item number: 5063
 item name: wyhjwglqqxujhuolfiwqkd
 item supplier warehouse: 1
 item quantity: 9
 item amount: 85.95
-item stock: 19
+item stock: 37
 item number: 27779
 item name: kxhgsecngnxdlmwiaqyksqe
 item supplier warehouse: 1
@@ -7115,8 +7115,8 @@ new order
 
 
 
-order number: 6432
-entry date: 2016-10-13 11:36:14.86
+order number: 6423
+entry date: 2016-10-13 11:36:13.738
 item number: 31463
 item name: oqlzuewvhqqfvyryqnunupf
 item supplier warehouse: 1
@@ -7203,8 +7203,8 @@ new order
 
 
 
-order number: 6440
-entry date: 2016-10-13 11:36:16.025
+order number: 6433
+entry date: 2016-10-13 11:36:14.911
 item number: 36198
 item name: fnsnlorvtstmrq
 item supplier warehouse: 1
@@ -7228,7 +7228,7 @@ item name: qcdehwfsulclbmuel
 item supplier warehouse: 1
 item quantity: 4
 item amount: 381.52
-item stock: 109
+item stock: 13
 item number: 29363
 item name: scfbtkdsmdcfbr
 item supplier warehouse: 1
@@ -7297,8 +7297,8 @@ new order
 
 
 
-order number: 6448
-entry date: 2016-10-13 11:36:17.249
+order number: 6442
+entry date: 2016-10-13 11:36:16.168
 item number: 89575
 item name: wpiabaqepqrdfxprbuogceo
 item supplier warehouse: 1
@@ -7316,7 +7316,7 @@ item name: wobpgcxfuebyxbt
 item supplier warehouse: 1
 item quantity: 4
 item amount: 219.8
-item stock: 28
+item stock: 32
 item number: 13368
 item name: kehcebgcmovijkvuf
 item supplier warehouse: 1
@@ -7349,8 +7349,8 @@ new order
 
 
 
-order number: 6452
-entry date: 2016-10-13 11:36:17.861
+order number: 6446
+entry date: 2016-10-13 11:36:16.908
 item number: 48355
 item name: gcbrygwzlepvom
 item supplier warehouse: 1
@@ -7380,7 +7380,7 @@ item name: dvltffrjbdvlj
 item supplier warehouse: 1
 item quantity: 3
 item amount: 122.39999999999999
-item stock: 31
+item stock: 34
 item number: 89575
 item name: wpiabaqepqrdfxprbuogceo
 item supplier warehouse: 1
@@ -7401,20 +7401,20 @@ new order
 
 
 
-order number: 6456
-entry date: 2016-10-13 11:36:18.411
+order number: 6450
+entry date: 2016-10-13 11:36:17.568
 item number: 11991
 item name: okmyjdwjwoxmywk
 item supplier warehouse: 1
 item quantity: 8
 item amount: 643.2
-item stock: 32
+item stock: 40
 item number: 5956
 item name: iaunrisuwgtwwmnxecx
 item supplier warehouse: 1
 item quantity: 9
 item amount: 796.14
-item stock: 96
+item stock: 105
 item number: 93534
 item name: wuunpdosfpdfmfnd
 item supplier warehouse: 1
@@ -7444,7 +7444,7 @@ item name: bpnrpdscyijvrubtwazgwjk
 item supplier warehouse: 1
 item quantity: 1
 item amount: 71.26
-item stock: 41
+item stock: 42
 item number: 96430
 item name: hhhccdnyowzsorhqw
 item supplier warehouse: 1
@@ -7507,8 +7507,8 @@ new order
 
 
 
-order number: 6465
-entry date: 2016-10-13 11:36:19.845
+order number: 6459
+entry date: 2016-10-13 11:36:19.103
 item number: 15326
 item name: hemvzpcszloswefegnkvq
 item supplier warehouse: 1
@@ -7610,7 +7610,7 @@ item name: dggmrmxslgeipeqjjyj
 item supplier warehouse: 1
 item quantity: 5
 item amount: 217.95000000000002
-item stock: 18
+item stock: 23
 customer identifier: W_ID->1, D_ID->1, C_ID->1659
 customer last name: 'EINGATIONATION'
 customer credit: 'BC'
@@ -7625,8 +7625,8 @@ new order
 
 
 
-order number: 6475
-entry date: 2016-10-13 11:36:21.479
+order number: 6469
+entry date: 2016-10-13 11:36:20.792
 item number: 57060
 item name: psmpvscmsplwisielprou
 item supplier warehouse: 1
@@ -7656,7 +7656,7 @@ item name: bxiagdhtwrtbkk
 item supplier warehouse: 1
 item quantity: 2
 item amount: 97.76
-item stock: 20
+item stock: 22
 item number: 56903
 item name: ifnyhedaopkgwxf
 item supplier warehouse: 1
@@ -7674,7 +7674,7 @@ item name: rcmpwyyvoowbmjzdnd
 item supplier warehouse: 1
 item quantity: 1
 item amount: 55.82
-item stock: 67
+item stock: 68
 item number: 79303
 item name: ehpsrwmnmgdrpaztsa
 item supplier warehouse: 1
@@ -7695,8 +7695,8 @@ new order
 
 
 
-order number: 6481
-entry date: 2016-10-13 11:36:22.274
+order number: 6476
+entry date: 2016-10-13 11:36:21.633
 item number: 73255
 item name: tybgskmmrmzhdexbng
 item supplier warehouse: 1
@@ -7738,7 +7738,7 @@ item name: nocgdglsbfmnns
 item supplier warehouse: 1
 item quantity: 4
 item amount: 266.4
-item stock: 68
+item stock: 72
 item number: 60903
 item name: bvllnthvqxeihlysjjrdeof
 item supplier warehouse: 1
@@ -7756,7 +7756,7 @@ item name: shvikjdesrsml
 item supplier warehouse: 1
 item quantity: 7
 item amount: 79.58999999999999
-item stock: 100
+item stock: 107
 item number: 81351
 item name: nsmqtixsonowfgk
 item supplier warehouse: 1
@@ -7783,8 +7783,8 @@ new order
 
 
 
-order number: 6487
-entry date: 2016-10-13 11:36:23.304
+order number: 6484
+entry date: 2016-10-13 11:36:23.051
 item number: 91282
 item name: wywvvbmpuwjhdca
 item supplier warehouse: 1
@@ -7796,13 +7796,13 @@ item name: apkcvqywgxakmvfkmvrjp
 item supplier warehouse: 1
 item quantity: 5
 item amount: 487.9
-item stock: 69
+item stock: 74
 item number: 6207
 item name: wneqmnjbdeiezgvskgjh
 item supplier warehouse: 1
 item quantity: 6
 item amount: 182.10000000000002
-item stock: 73
+item stock: 79
 item number: 99035
 item name: aqgicffidvltitjtvgn
 item supplier warehouse: 1
@@ -8434,8 +8434,8 @@ new order
 
 
 
-order number: 6524
-entry date: 2016-10-13 11:37:05.271
+order number: 6527
+entry date: 2016-10-13 11:37:05.989
 item number: 31414
 item name: vgxvohzrazytxvbd
 item supplier warehouse: 1
@@ -8459,7 +8459,7 @@ item name: lhecwmsyymuuxgdiz
 item supplier warehouse: 1
 item quantity: 10
 item amount: 389.4
-item stock: 96
+item stock: 86
 item number: 89799
 item name: sapiecqhdtlexmggbgeqypg
 item supplier warehouse: 1
@@ -8528,8 +8528,8 @@ new order
 
 
 
-order number: 6529
-entry date: 2016-10-13 11:37:06.718
+order number: 6530
+entry date: 2016-10-13 11:37:07.373
 item number: 30111
 item name: ujgbndhxvpozijte
 item supplier warehouse: 1
@@ -8559,7 +8559,7 @@ item name: wtzekuyzwwntehaokagti
 item supplier warehouse: 1
 item quantity: 8
 item amount: 430.16
-item stock: 38
+item stock: 30
 item number: 32374
 item name: yicmsvmlutcitcjmiddolih
 item supplier warehouse: 1
@@ -8646,8 +8646,8 @@ new order
 
 
 
-order number: 6534
-entry date: 2016-10-13 11:37:08.575
+order number: 6536
+entry date: 2016-10-13 11:37:09.156
 item number: 47966
 item name: hbtatwjoviehcpjo
 item supplier warehouse: 1
@@ -8665,7 +8665,7 @@ item name: yihljqrfjqrcoioiwwapedm
 item supplier warehouse: 1
 item quantity: 1
 item amount: 7.46
-item stock: 30
+item stock: 29
 item number: 36303
 item name: canqreehhqankessryg
 item supplier warehouse: 1
@@ -8692,8 +8692,8 @@ new order
 
 
 
-order number: 6536
-entry date: 2016-10-13 11:37:09.173
+order number: 6541
+entry date: 2016-10-13 11:37:09.793
 item number: 48295
 item name: mrtakjgepqghkjxklhfjscq
 item supplier warehouse: 1
@@ -8756,8 +8756,8 @@ new order
 
 
 
-order number: 6543
-entry date: 2016-10-13 11:37:10.051
+order number: 6544
+entry date: 2016-10-13 11:37:10.433
 item number: 85655
 item name: bplyyumgunchbcwzp
 item supplier warehouse: 1
@@ -8853,7 +8853,7 @@ item name: pmbqrcxfiwbckeksr
 item supplier warehouse: 1
 item quantity: 3
 item amount: 182.76
-item stock: 84
+item stock: 81
 customer identifier: W_ID->1, D_ID->1, C_ID->1267
 customer last name: 'ESEEINGANTI'
 customer credit: 'GC'
@@ -8868,8 +8868,8 @@ new order
 
 
 
-order number: 6552
-entry date: 2016-10-13 11:37:11.621
+order number: 6557
+entry date: 2016-10-13 11:37:12.233
 item number: 61158
 item name: kowezbftedrnkhyyzggzojp
 item supplier warehouse: 1
@@ -8887,7 +8887,7 @@ item name: tdcvzmkwudbelefp
 item supplier warehouse: 1
 item quantity: 10
 item amount: 106.30000000000001
-item stock: 32
+item stock: 22
 item number: 48103
 item name: bqidqmksgrzsfog
 item supplier warehouse: 1
@@ -8911,7 +8911,7 @@ item name: ykytwtikthghz
 item supplier warehouse: 1
 item quantity: 4
 item amount: 245.04
-item stock: 46
+item stock: 42
 item number: 76979
 item name: nzndfsmcbwwbhamzvq
 item supplier warehouse: 1
@@ -8935,7 +8935,7 @@ item name: ssbdftjuuawkmn
 item supplier warehouse: 1
 item quantity: 6
 item amount: 528.66
-item stock: 16
+item stock: 10
 item number: 15970
 item name: qiejwwubxzloutdixzyncrn
 item supplier warehouse: 1
@@ -8953,7 +8953,7 @@ item name: dfzqgpnyzmocddz
 item supplier warehouse: 1
 item quantity: 2
 item amount: 136.56
-item stock: 56
+item stock: 54
 item number: 63943
 item name: bjbcxnlhghkeb
 item supplier warehouse: 1
@@ -9004,8 +9004,8 @@ new order
 
 
 
-order number: 6564
-entry date: 2016-10-13 11:37:13.516
+order number: 6568
+entry date: 2016-10-13 11:37:13.971
 item number: 26255
 item name: tvlvsrwlkljwebbfdct
 item supplier warehouse: 1
@@ -9017,7 +9017,7 @@ item name: jfhxjuykunxkosvm
 item supplier warehouse: 1
 item quantity: 2
 item amount: 8.22
-item stock: 25
+item stock: 23
 item number: 97944
 item name: xfbyywphcluuyoszxvfh
 item supplier warehouse: 1
@@ -9047,7 +9047,7 @@ item name: zomaekwmhqgdqsoyklz
 item supplier warehouse: 1
 item quantity: 3
 item amount: 98.91
-item stock: 87
+item stock: 84
 item number: 38342
 item name: lumrflnaicqvazpaisrg
 item supplier warehouse: 1
@@ -9104,8 +9104,8 @@ new order
 
 
 
-order number: 6572
-entry date: 2016-10-13 11:37:14.978
+order number: 6577
+entry date: 2016-10-13 11:37:15.521
 item number: 81328
 item name: ycgvpbavtivphfbzxyvwi
 item supplier warehouse: 1
@@ -9147,7 +9147,7 @@ item name: ksuxdczsecwwture
 item supplier warehouse: 1
 item quantity: 9
 item amount: 262.17
-item stock: 86
+item stock: 77
 item number: 48838
 item name: zofvucoticbbxyzixg
 item supplier warehouse: 1
@@ -9204,8 +9204,8 @@ new order
 
 
 
-order number: 6581
-entry date: 2016-10-13 11:37:16.225
+order number: 6584
+entry date: 2016-10-13 11:37:16.846
 item number: 47807
 item name: ucalhfssttwlkwcql
 item supplier warehouse: 1
@@ -9223,7 +9223,7 @@ item name: mfaemwmzthkzz
 item supplier warehouse: 1
 item quantity: 1
 item amount: 19.64
-item stock: 76
+item stock: 75
 item number: 77510
 item name: qkfmlpdielvdvuyvmckxiq
 item supplier warehouse: 1
@@ -9241,7 +9241,7 @@ item name: xegvyhoxentawhlh
 item supplier warehouse: 1
 item quantity: 5
 item amount: 26.099999999999998
-item stock: 11
+item stock: 106
 item number: 63719
 item name: dfgmoydfmvzpx
 item supplier warehouse: 1
@@ -9289,7 +9289,7 @@ item name: uocbtwybvcbcaiu
 item supplier warehouse: 1
 item quantity: 6
 item amount: 582.84
-item stock: 107
+item stock: 101
 item number: 47799
 item name: zwzgpsyfuafzrmher
 item supplier warehouse: 1
@@ -9310,8 +9310,8 @@ new order
 
 
 
-order number: 6588
-entry date: 2016-10-13 11:37:17.463
+order number: 6593
+entry date: 2016-10-13 11:37:18.325
 item number: 21133
 item name: tupxprouygzevh
 item supplier warehouse: 1
@@ -9371,7 +9371,7 @@ item name: eelapwtnmuxyjumaphehhgl
 item supplier warehouse: 1
 item quantity: 5
 item amount: 60.25
-item stock: 98
+item stock: 93
 item number: 21975
 item name: vwflvrhmevglkxqr
 item supplier warehouse: 1
@@ -9404,8 +9404,8 @@ new order
 
 
 
-order number: 6597
-entry date: 2016-10-13 11:37:18.782
+order number: 6601
+entry date: 2016-10-13 11:37:19.538
 item number: 40083
 item name: xvtdrzjfjmmepllgnsxh
 item supplier warehouse: 1
@@ -9468,14 +9468,14 @@ new order
 
 
 
-order number: 6601
-entry date: 2016-10-13 11:37:19.566
+order number: 6606
+entry date: 2016-10-13 11:37:20.192
 item number: 1983
 item name: mmdjmcuxutqwtpp
 item supplier warehouse: 1
 item quantity: 3
 item amount: 105.72
-item stock: 77
+item stock: 74
 item number: 30419
 item name: duecddlxoxjislsz
 item supplier warehouse: 1
@@ -9532,8 +9532,8 @@ new order
 
 
 
-order number: 6607
-entry date: 2016-10-13 11:37:20.267
+order number: 6612
+entry date: 2016-10-13 11:37:21.074
 item number: 53938
 item name: ixfllobxqfszjrq
 item supplier warehouse: 1
@@ -9569,7 +9569,7 @@ item name: roiqnqqmqybkyewky
 item supplier warehouse: 1
 item quantity: 8
 item amount: 49.68
-item stock: 32
+item stock: 24
 item number: 51431
 item name: rzsiunftuelgzxjbhm
 item supplier warehouse: 1
@@ -9617,7 +9617,7 @@ item name: wneqmnjbdeiezgvskgjh
 item supplier warehouse: 1
 item quantity: 4
 item amount: 121.4
-item stock: 25
+item stock: 21
 item number: 36564
 item name: kyxnmtnlzcaakyewlhdd
 item supplier warehouse: 1
@@ -9668,8 +9668,8 @@ new order
 
 
 
-order number: 6618
-entry date: 2016-10-13 11:37:22.138
+order number: 6622
+entry date: 2016-10-13 11:37:22.628
 item number: 58877
 item name: lbncfpnveflagwknijisdh
 item supplier warehouse: 1
@@ -9705,7 +9705,7 @@ item name: oojcfclyxheghx
 item supplier warehouse: 1
 item quantity: 3
 item amount: 80.13
-item stock: 105
+item stock: 102
 item number: 59217
 item name: eajtwblohcxbogn
 item supplier warehouse: 1
@@ -9735,7 +9735,7 @@ item name: frtdefzufgndvfdjttobdp
 item supplier warehouse: 1
 item quantity: 4
 item amount: 136.68
-item stock: 98
+item stock: 94
 item number: 73283
 item name: oekvvdvabakiwyg
 item supplier warehouse: 1
@@ -9765,7 +9765,7 @@ item name: leojambephqbgbnvk
 item supplier warehouse: 1
 item quantity: 6
 item amount: 381.54
-item stock: 14
+item stock: 108
 item number: 53733
 item name: znqfpefjjbbftrhx
 item supplier warehouse: 1
@@ -9804,14 +9804,14 @@ new order
 
 
 
-order number: 6629
-entry date: 2016-10-13 11:37:23.615
+order number: 6634
+entry date: 2016-10-13 11:37:24.199
 item number: 6078
 item name: mawdeeaalvqxebfgcxlcv
 item supplier warehouse: 1
 item quantity: 9
 item amount: 433.89
-item stock: 16
+item stock: 107
 item number: 38623
 item name: aqxprywqsjoudsdmhp
 item supplier warehouse: 1
@@ -9922,8 +9922,8 @@ new order
 
 
 
-order number: 6637
-entry date: 2016-10-13 11:37:24.834
+order number: 6642
+entry date: 2016-10-13 11:37:25.214
 item number: 15006
 item name: crrnecoqznjvg
 item supplier warehouse: 1
@@ -9935,7 +9935,7 @@ item name: wicqzryokdqfggixmus
 item supplier warehouse: 1
 item quantity: 2
 item amount: 12.64
-item stock: 28
+item stock: 26
 item number: 89830
 item name: gjvtkofeivelq
 item supplier warehouse: 1
@@ -9989,7 +9989,7 @@ item name: jeuzezjxqpvnv
 item supplier warehouse: 1
 item quantity: 2
 item amount: 29.06
-item stock: 28
+item stock: 26
 item number: 97477
 item name: airwiffepqesrwggujynbot
 item supplier warehouse: 8
@@ -10022,8 +10022,8 @@ new order
 
 
 
-order number: 6644
-entry date: 2016-10-13 11:37:25.495
+order number: 6651
+entry date: 2016-10-13 11:37:25.913
 item number: 13523
 item name: mmlnoahqayzurazep
 item supplier warehouse: 1
@@ -10041,7 +10041,7 @@ item name: mawdeeaalvqxebfgcxlcv
 item supplier warehouse: 1
 item quantity: 5
 item amount: 241.05
-item stock: 66
+item stock: 61
 item number: 40102
 item name: jjfcswmdxxtbg
 item supplier warehouse: 1
@@ -10104,8 +10104,8 @@ new order
 
 
 
-order number: 6652
-entry date: 2016-10-13 11:37:26.02
+order number: 6658
+entry date: 2016-10-13 11:37:26.678
 item number: 46783
 item name: ghkedhcowqablrcispgvkps
 item supplier warehouse: 1
@@ -10117,7 +10117,7 @@ item name: tiknjabloiprwjexpk
 item supplier warehouse: 1
 item quantity: 2
 item amount: 149.98
-item stock: 11
+item stock: 109
 item number: 64489
 item name: ntewgcyezznltzka
 item supplier warehouse: 1
@@ -10189,7 +10189,7 @@ item name: kjcelzqmiazqouwantldxdo
 item supplier warehouse: 1
 item quantity: 8
 item amount: 191.68
-item stock: 36
+item stock: 28
 item number: 48342
 item name: airxhpqzphoardyz
 item supplier warehouse: 1
@@ -10228,8 +10228,8 @@ new order
 
 
 
-order number: 6663
-entry date: 2016-10-13 11:37:27.191
+order number: 6667
+entry date: 2016-10-13 11:37:27.874
 item number: 70307
 item name: ibsbvuolikwmxtoufotzj
 item supplier warehouse: 1
@@ -10259,7 +10259,7 @@ item name: oiwcmlvpgfdkhdk
 item supplier warehouse: 1
 item quantity: 9
 item amount: 731.6999999999999
-item stock: 109
+item stock: 100
 customer identifier: W_ID->1, D_ID->1, C_ID->1146
 customer last name: 'PRESOUGHTBAR'
 customer credit: 'GC'
@@ -10274,8 +10274,8 @@ new order
 
 
 
-order number: 6666
-entry date: 2016-10-13 11:37:27.571
+order number: 6672
+entry date: 2016-10-13 11:37:28.187
 item number: 21735
 item name: jtydkuvxqjxdwmwja
 item supplier warehouse: 1
@@ -10356,8 +10356,8 @@ new order
 
 
 
-order number: 6671
-entry date: 2016-10-13 11:37:28.168
+order number: 6678
+entry date: 2016-10-13 11:37:28.748
 item number: 96966
 item name: juxrlkpznwrljgre
 item supplier warehouse: 1
@@ -10393,7 +10393,7 @@ item name: fkbxesktxcuwkxclks
 item supplier warehouse: 1
 item quantity: 6
 item amount: 301.62
-item stock: 14
+item stock: 108
 customer identifier: W_ID->1, D_ID->1, C_ID->2241
 customer last name: 'PRIPRESBAR'
 customer credit: 'GC'
@@ -10408,8 +10408,8 @@ new order
 
 
 
-order number: 6677
-entry date: 2016-10-13 11:37:28.513
+order number: 6683
+entry date: 2016-10-13 11:37:29.259
 item number: 95863
 item name: jlmwbqkrzfpdhfkjhjwrq
 item supplier warehouse: 1
@@ -10514,8 +10514,8 @@ new order
 
 
 
-order number: 6685
-entry date: 2016-10-13 11:37:29.397
+order number: 6696
+entry date: 2016-10-13 11:37:30.376
 item number: 85396
 item name: hjudbecanqxez
 item supplier warehouse: 1
@@ -10551,19 +10551,19 @@ item name: ihzkisprnnfxrhxp
 item supplier warehouse: 1
 item quantity: 8
 item amount: 615.68
-item stock: 97
+item stock: 89
 item number: 11781
 item name: bnvwvrvpffzlbqcbkg
 item supplier warehouse: 1
 item quantity: 8
 item amount: 120.56
-item stock: 45
+item stock: 37
 item number: 5900
 item name: oxpecvwgwpzure
 item supplier warehouse: 1
 item quantity: 3
 item amount: 180.96
-item stock: 30
+item stock: 27
 customer identifier: W_ID->1, D_ID->1, C_ID->2746
 customer last name: 'BARESEOUGHT'
 customer credit: 'GC'
@@ -10578,8 +10578,8 @@ new order
 
 
 
-order number: 6692
-entry date: 2016-10-13 11:37:30.027
+order number: 6703
+entry date: 2016-10-13 11:37:31.036
 item number: 77410
 item name: beuquvqvbycmdxmfzgge
 item supplier warehouse: 1
@@ -10597,7 +10597,7 @@ item name: ckefnkgylfcbpyaocjb
 item supplier warehouse: 1
 item quantity: 4
 item amount: 32.16
-item stock: 33
+item stock: 29
 item number: 36313
 item name: jtekyodxyyhkekvtdx
 item supplier warehouse: 1
@@ -10630,8 +10630,8 @@ new order
 
 
 
-order number: 6698
-entry date: 2016-10-13 11:37:30.445
+order number: 6711
+entry date: 2016-10-13 11:37:31.558
 item number: 43683
 item name: gguinfprdridfcmvcnmb
 item supplier warehouse: 1
@@ -10661,7 +10661,7 @@ item name: ygawzidjfovwezfhua
 item supplier warehouse: 1
 item quantity: 2
 item amount: 42.52
-item stock: 45
+item stock: 41
 item number: 19687
 item name: nwoormnwfqnzsrvatcq
 item supplier warehouse: 1
@@ -10721,7 +10721,7 @@ item name: pxfguppgrrgdvhgsb
 item supplier warehouse: 1
 item quantity: 10
 item amount: 11.200000000000001
-item stock: 50
+item stock: 20
 item number: 47733
 item name: kunwokfszcunxh
 item supplier warehouse: 1
@@ -10766,8 +10766,8 @@ new order
 
 
 
-order number: 6713
-entry date: 2016-10-13 11:37:31.714
+order number: 6724
+entry date: 2016-10-13 11:37:32.828
 item number: 36321
 item name: cmzyoiskywtcybk
 item supplier warehouse: 1
@@ -10779,7 +10779,7 @@ item name: prkfrthgwfdvfevmvmqyopm
 item supplier warehouse: 1
 item quantity: 5
 item amount: 181.20000000000002
-item stock: 81
+item stock: 71
 item number: 93286
 item name: nqbtyzhoehbddcpjiyzaviv
 item supplier warehouse: 1
@@ -10815,7 +10815,7 @@ item name: qikjwuypiqwngegobpwzulr
 item supplier warehouse: 1
 item quantity: 1
 item amount: 91.77
-item stock: 21
+item stock: 19
 item number: 79075
 item name: vwlvbbysyeows
 item supplier warehouse: 1
@@ -10878,8 +10878,8 @@ new order
 
 
 
-order number: 6722
-entry date: 2016-10-13 11:37:32.739
+order number: 6732
+entry date: 2016-10-13 11:37:33.732
 item number: 71255
 item name: kfxrzxdzeicivnuuwzwjhe
 item supplier warehouse: 1
@@ -10996,8 +10996,8 @@ new order
 
 
 
-order number: 6730
-entry date: 2016-10-13 11:37:33.645
+order number: 6741
+entry date: 2016-10-13 11:37:34.627
 item number: 73291
 item name: hvdqurcokcbddqt
 item supplier warehouse: 1
@@ -11015,7 +11015,7 @@ item name: zaxojfucllgevvuzqi
 item supplier warehouse: 1
 item quantity: 2
 item amount: 170.38
-item stock: 87
+item stock: 83
 item number: 47079
 item name: zwakfrpvuwpbo
 item supplier warehouse: 1
@@ -11028,149 +11028,3 @@ item supplier warehouse: 1
 item quantity: 9
 item amount: 37.800000000000004
 item stock: -1
-item number: 73412
-item name: vusplxpexuxotbypuyasef
-item supplier warehouse: 1
-item quantity: 4
-item amount: 191.12
-item stock: -1
-item number: 80295
-item name: zbekmbshwgkfzkdfg
-item supplier warehouse: 1
-item quantity: 10
-item amount: 23.599999999999998
-item stock: -1
-item number: 68311
-item name: ddmffaadzwzsjhbpxddmff
-item supplier warehouse: 1
-item quantity: 7
-item amount: 452.06
-item stock: -1
-item number: 64871
-item name: ecpecxwqoyhonblnfkpogms
-item supplier warehouse: 1
-item quantity: 10
-item amount: 750.6999999999999
-item stock: -1
-item number: 15447
-item name: wvsjqjimznfdm
-item supplier warehouse: 1
-item quantity: 7
-item amount: 536.48
-item stock: -1
-item number: 68965
-item name: camlmjylosjcd
-item supplier warehouse: 1
-item quantity: 2
-item amount: 110.72
-item stock: -1
-item number: 37233
-item name: wxvmgahgiltoag
-item supplier warehouse: 1
-item quantity: 5
-item amount: 146.4
-item stock: -1
-item number: 16027
-item name: vsumgptqekpbvr
-item supplier warehouse: 1
-item quantity: 10
-item amount: 188.2
-item stock: -1
-item number: 20179
-item name: ykglsczjfrnsaqaq
-item supplier warehouse: 1
-item quantity: 4
-item amount: 118.92
-item stock: -1
-item number: 16037
-item name: kulijkhpgzoludyfq
-item supplier warehouse: 1
-item quantity: 1
-item amount: 24.74
-item stock: -1
-customer identifier: W_ID->1, D_ID->1, C_ID->203
-customer last name: 'ABLEBARABLE'
-customer credit: 'GC'
-customer discount: 0.3308
-warehouse tax rate: 0.129
-district tax rate: 0.1798
-number of items: 15total amount for order: 66609.33378892754
-Dealing with trans 145
-new order
-2304, 1, 1
-[[29242, 1, 9], [21094, 1, 1], [4824, 1, 5], [18599, 1, 6], [13966, 1, 2], [87782, 1, 4], [89791, 1, 8], [40678, 1, 3], [44435, 1, 3]]
-
-
-
-order number: 6738
-entry date: 2016-10-13 11:37:34.436
-item number: 29242
-item name: gxclqiemzehfumqtpvz
-item supplier warehouse: 1
-item quantity: 9
-item amount: 38.88
-item stock: -1
-item number: 21094
-item name: mgirjesitrdyydxhmbwbw
-item supplier warehouse: 1
-item quantity: 1
-item amount: 16.55
-item stock: -1
-item number: 4824
-item name: mlrtnrszwrcrq
-item supplier warehouse: 1
-item quantity: 5
-item amount: 75.0
-item stock: 26
-item number: 18599
-item name: jxbjbgyultpymcfgfpvxox
-item supplier warehouse: 1
-item quantity: 6
-item amount: 537.36
-item stock: -1
-item number: 13966
-item name: nxfopayrpajrsfusnv
-item supplier warehouse: 1
-item quantity: 2
-item amount: 115.7
-item stock: -1
-item number: 87782
-item name: guffjijaoprwkag
-item supplier warehouse: 1
-item quantity: 4
-item amount: 236.2
-item stock: -1
-item number: 89791
-item name: ofutmlnmypsownvsi
-item supplier warehouse: 1
-item quantity: 8
-item amount: 294.64
-item stock: -1
-item number: 40678
-item name: iahjslezfbuniwlrbenokuj
-item supplier warehouse: 1
-item quantity: 3
-item amount: 144.87
-item stock: -1
-item number: 44435
-item name: xsmdtscwjvxweokdxqtobvo
-item supplier warehouse: 1
-item quantity: 3
-item amount: 27.54
-item stock: -1
-customer identifier: W_ID->1, D_ID->1, C_ID->2304
-customer last name: 'ESEANTIESE'
-customer credit: 'GC'
-customer discount: 0.0138
-warehouse tax rate: 0.129
-district tax rate: 0.1798
-number of items: 9total amount for order: 87894.22822397406
-Dealing with trans 146
-new order
-2018, 1, 1
-[[81442, 1, 4], [80735, 1, 4], [81230, 1, 2], [57027, 1, 6], [24227, 1, 8], [88668, 1, 8], [81541, 1, 1], [16103, 1, 5], [72991, 1, 5], [36059, 1, 5], [97247, 1, 2], [89815, 1, 8], [38335, 1, 10], [12341, 1, 8], [56931, 1, 7]]
-
-
-
-order number: 6742
-entry date: 2016-10-13 11:37:34.998
